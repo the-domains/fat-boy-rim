@@ -31,8 +31,8 @@ title: >-
   Special delivery for the World Chamionships! Stay tuned! @spinonthese
   #newwheels #SpinOnThese #carbon #handbuilt #fatboys #fast #bikeporn #aero
   #moretocome
-datePublished: '2017-01-30T13:38:59.069Z'
-dateModified: '2017-01-30T13:38:52.822Z'
+datePublished: '2017-01-30T13:50:38.978Z'
+dateModified: '2017-01-30T13:50:34.040Z'
 description: ''
 via: {}
 inFeed: true
