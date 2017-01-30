@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/joeljameson1/status/781550002405576705'
-datePublished: '2017-01-30T14:05:39.471Z'
-dateModified: '2017-01-30T14:05:33.800Z'
+datePublished: '2017-01-30T14:08:20.131Z'
+dateModified: '2017-01-30T14:08:14.122Z'
 title: ''
 via: {}
 inFeed: true
