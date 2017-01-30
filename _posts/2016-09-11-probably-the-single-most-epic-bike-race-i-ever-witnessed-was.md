@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-30T14:05:40.236Z'
+datePublished: '2017-01-30T14:08:21.425Z'
 sourcePath: >-
   _posts/2016-09-11-probably-the-single-most-epic-bike-race-i-ever-witnessed-was.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
     url: 'https://www.instagram.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-01-30T14:05:33.800Z'
+dateModified: '2017-01-30T14:08:14.122Z'
 title: 'Lion of Flanders Johan Museeuw checks out these #FatBoys'
 publisher: {}
 description: ''
