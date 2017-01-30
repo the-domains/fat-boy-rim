@@ -28,8 +28,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BLjceaChD4c/?taken-by=leftoverturkey'
 title: "So so excited to ride these FatBoys now!! @spinonthese make super duper wheels and have sent me their DM838s to set my bike in motion \uD83D\uDE0A #fatboys #SpinOnThese #winonthese #triathlon #tri #swimbikerun #bike #tribike #lanzarote #lovelanzarote #bettydesigns #wheels #bikewheels"
-datePublished: '2017-01-30T14:08:19.236Z'
-dateModified: '2017-01-30T14:08:14.122Z'
+datePublished: '2017-01-30T14:13:00.323Z'
+dateModified: '2017-01-30T14:12:59.671Z'
 description: ''
 via: {}
 inFeed: true
