@@ -34,8 +34,8 @@ purpose:
     url: 'http://ridefullgas.com/dm8-series-super-fat-boys-28mm-wide/'
     label: Buy Now
   - type: contact
-    url: 'mailto:d@ridefullgas.com'
-    label: Got any questions? Mail me!
+    url: 'mailto:spinfo@ridefullgas.com'
+    label: Got a question? Mail me!
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
