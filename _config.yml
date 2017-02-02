@@ -35,7 +35,7 @@ purpose:
     label: Buy Now
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
-    label: Any questions? Get in touch!
+    label: Got questions?
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
