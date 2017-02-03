@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T18:32:26.329Z'
+datePublished: '2017-02-03T18:33:15.399Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T18:32:25.439Z'
+dateModified: '2017-02-03T18:33:14.798Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -30,7 +30,7 @@ I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robu
 
 But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet appeared to consider. It's not enough just to be aero, light and stiff. If you want to go fast, in comfort and safety, tyres are in fact key. So my focus with DM8 was on _optimising _the ride performance of **25mm **(and upto 28mm) tyres.
 
-It's for this reason that DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve or to my knowledge any other purveyor of fine fast wheels.
+It's for this reason that DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels.
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
