@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T18:38:49.304Z'
+datePublished: '2017-02-03T19:18:08.516Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T18:38:48.499Z'
+dateModified: '2017-02-03T19:18:07.793Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -54,7 +54,7 @@ The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the 
 
 That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\. 
 
-To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this, all such wheels are still therefore only able to deliver optimal real world performance when paired up with genuine width 23mm tyres. 
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction at the base of the tyre, all such wheels can only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
 
 But fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. And let's not forget that many riders are putting 25s on, not noticing that these tyres often come in around 27-29mm wide for real.
 
