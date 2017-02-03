@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T22:20:00.518Z'
+datePublished: '2017-02-03T22:24:16.296Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T22:19:59.625Z'
+dateModified: '2017-02-03T22:24:15.426Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -26,10 +26,12 @@ _type: Article
 # Whether you're a flyweight climber, powerful puncheur, or Red Hook racer, you'll spin so much faster on these Fat Boy Rims
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1bb215-eeba-4212-81e6-09c17761bb9d.jpg)
 
-I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance wheel brand lays claim to - some more truthfully, and many more optimistically than others.
+I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance wheel brand lays claim to - some more _truthfully_, and many more _optimistically _than others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac32ca9d-a758-431a-bfd4-98b95200dcc6.jpg)
 
-But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet considered for their premium performance road wheels. In my view, it's not enough just to be aero, light and stiff. Most of the really top-end big bucks wheels get this just about right, more or less.
+But for the DM8 series rim profiles, all of that is simply not enough. After all, I already had my most successful, well established DMX range of wheels chugging along nicely. With DM8 I wanted to go beyond DMX, and at least one stage further than any other maker has yet considered for their premium performance road wheels. 
+
+In my view, it's simply not enough to be _just _aero, light and stiff. Most of the really top-end big bucks wheels get this just about right, more or less.
 
 But if you want to go fast out in the real world, consistently, in supreme comfort and sure-footed safety, your tyres are in fact the key. More specifically, matching rim and tyre width for optimal performance. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know so!
 
