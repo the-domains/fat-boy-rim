@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:41:37.616Z'
+datePublished: '2017-02-03T20:41:49.080Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:41:36.884Z'
+dateModified: '2017-02-03T20:41:48.447Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -96,7 +96,7 @@ But who cares what I think? Why not see what the riders who're already spinning 
 
 ## 
 
-## Ready to Spin On These?
+## Are you ready to Spin On These?
 [Make me some now!][1]
 
 ## To whet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails, here's some of the wheels I made earlier ...
