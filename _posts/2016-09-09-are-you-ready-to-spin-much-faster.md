@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T22:18:23.855Z'
+datePublished: '2017-02-03T22:20:00.518Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T22:18:23.138Z'
+dateModified: '2017-02-03T22:19:59.625Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -33,8 +33,7 @@ But with the DM8 series rim profiles, all of that is not enough. I wanted to go 
 
 But if you want to go fast out in the real world, consistently, in supreme comfort and sure-footed safety, your tyres are in fact the key. More specifically, matching rim and tyre width for optimal performance. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know so!
 
-It's for this reason that the DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
+It's for this specific reason that the DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels. Anything skinnier than a DM8, and a 25mm tyre cannot attain its optimal tread shape. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
