@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T18:35:35.142Z'
+datePublished: '2017-02-03T18:36:12.364Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T18:35:34.343Z'
+dateModified: '2017-02-03T18:36:11.745Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -48,7 +48,7 @@ Please read on to find out how and why DM8 came about, and why these very fast \
 
 ---
 
-You see, my previous generation rims - the X/DMX series - were engineered specifically to work best with those 23mm tyres we were all still riding just a few years back. This factor was the starting point for the rim design, determining from the very the outset the ideal internal and external widths. The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the fastest wheels I'd made - as well as my fastest selling! 
+You see, my previous generation rims - the X/DMX series - were engineered specifically to work best with those 23mm tyres we were all still riding just a few years back. This factor was the starting point for the rim design, determining from the very outset the ideal internal and external widths. The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the fastest wheels I'd made - as well as my fastest selling! 
 
 The only problem was that soon after, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and even bigger.
 
