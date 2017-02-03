@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T19:27:11.949Z'
+datePublished: '2017-02-03T19:37:37.908Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T19:27:11.277Z'
+dateModified: '2017-02-03T19:37:37.199Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -28,9 +28,9 @@ _type: Article
 
 I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance brand of wheels lays claim to - some more truthfully, and many more optimistically than others.
 
-But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet appeared to consider. It's not enough just to be aero, light and stiff. If you want to go fast, in comfort and safety, tyres are in fact key. So my focus with DM8 was on _optimising _the ride performance of **25mm **(and upto 28mm) tyres.
+But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet appeared to consider for their premium performance road wheels. It's not enough just to be aero, light and stiff. If you want to go fast, in comfort and safety, tyres are in fact key. So my focus with DM8 was on _optimising _the ride performance of **25mm **(and upto 28mm) tyres.
 
-It's for this reason that DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels.
+It's for this reason that the DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels.
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
@@ -54,9 +54,15 @@ The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the 
 
 That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\. 
 
-To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction at the base of the tyre, all such wheels can only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
 
-But fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. And let's not forget that many riders are putting 25s on, not noticing that these tyres often come in around 27-29mm wide for real.
+## The problem with tyres
+
+Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. 
+
+And let's not forget that many riders are now putting on 25s, but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre for most rims to manage without resorting to very high inflation pressures to stabilise the tread, resulting in sidewall bulge, lightbulb effect, whatever you want to call it. 
+
+The problem with this is its effect on the tread shape itself, tending to flatten it off at the top, increasing roll resistance and grip where it's not needed (bike in the fully upright position), and tightly rounding off its shoulders, delivering a smaller contact patch where it is most needed (bike leaning into the corners).
 
 ## So what does all this matter?
 
