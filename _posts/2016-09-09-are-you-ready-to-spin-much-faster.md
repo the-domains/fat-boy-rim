@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T19:37:37.908Z'
+datePublished: '2017-02-03T19:50:13.571Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T19:37:37.199Z'
+dateModified: '2017-02-03T19:50:12.868Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -58,11 +58,13 @@ To my current knowledge, all big-name makers of so-called wide profile road whee
 
 ## The problem with tyres
 
-Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. 
+Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size **23**, and what your bike is really wearing this season is 25mm tyres. That's right - **25mm** wide.
 
-And let's not forget that many riders are now putting on 25s, but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre for most rims to manage without resorting to very high inflation pressures to stabilise the tread, resulting in sidewall bulge, lightbulb effect, whatever you want to call it. 
+And let's not forget that many riders are now buying into the latest performance craze and riding tyres with 25 written on their sides - but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre - not to mention all that extra rotating weight - for most rims to manage without requiring very high inflation pressures in excess of 100 - 120 psi to stabilise the tread, resulting in sidewall bulge, light bulb effect, whatever you want to call it. 
 
-The problem with this is its effect on the tread shape itself, tending to flatten it off at the top, increasing roll resistance and grip where it's not needed (bike in the fully upright position), and tightly rounding off its shoulders, delivering a smaller contact patch where it is most needed (bike leaning into the corners).
+The problem with this bulge is its effect on the tread shape, tending to flatten it off at the upper section, which increases roll resistance, effectively wasting grip where it's not needed. Think of your bike in the fully upright, power-on position - you'll realise that in this scenario you don't need excess amounts of grip, just plenty of contour hugging micro-deformation in the tyre carcass to smooth out the surface and waste the minimum energy in bouncing around. 
+
+Conversely, bulging sidewalls round off the tread area's all important shoulders, delivering a much smaller contact patch where the broadest contact area is what's most needed (think of your bike leaning into the corners).
 
 ## So what does all this matter?
 
