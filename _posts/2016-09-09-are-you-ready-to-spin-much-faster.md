@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:23:15.182Z'
+datePublished: '2017-02-03T20:32:32.091Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:23:14.284Z'
+dateModified: '2017-02-03T20:32:30.579Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -42,7 +42,9 @@ My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one e
 > 
 > Demand more! Spend less! Less cash. Less effort. More wheel!
 
-DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below! Choose from two build variations for the road, centre lock disc with thru-axles for road/gravel/CX, or fixed/fixed track hubs to go race those Red Hook Crits. Combine with three rim depths and the DM8s range from 1470 grams and £990 / pair.
+DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below! 
+
+Choose from two build variations for the **road**, centre lock **disc **with **thru-axles** for **road/gravel/CX**, or fixed/fixed **track** hubs to go race those Red Hook Crits. Combine with three rim depths and the DM8s range from **1470 grams** and **£990 / pair**.
 
 I make each and every wheel entirely by hand, and customise the build precisely - for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
@@ -79,7 +81,9 @@ And it was with this simple aim of creating the perfect tread profile - smoothly
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
+DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. 
+
+Each wheel can be built in road standard for QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs for go anywhere thru-axled bikes. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
 
 Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty - unlike many better known, but lesser performing, over-priced wheels you could go and get yourself instead from any of the usual suspect big boy wheel brands.
 
