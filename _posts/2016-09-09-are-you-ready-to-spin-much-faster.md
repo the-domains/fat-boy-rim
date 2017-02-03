@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:41:49.080Z'
+datePublished: '2017-02-03T20:45:57.493Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:41:48.447Z'
+dateModified: '2017-02-03T20:45:56.447Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -90,16 +90,17 @@ Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty
 
 The DM8 series wheels represent everything I've learnt about engineering, making and riding great wheels, so naturally I love 'em. And I'm convinced you will too.
 
-But who cares what I think? Why not see what the riders who're already spinning their own DM8s have to say?
+But who cares what I think? It's much more fun to take a look at what the riders who're already spinning their own DM8s have to say by hitting this button below.
 [DM8s reviewed][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/858f995b-6ec0-46e7-9ab0-62a4c9efab3f.jpg)
 
 ## 
 
 ## Are you ready to Spin On These?
 [Make me some now!][1]
 
-## To whet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails, here's some of the wheels I made earlier ...
+To whet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails
+
+## Here's some of the wheels I made earlier ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d83b794-9b5c-493f-9fb1-76801e70088e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4765c3bf-9a01-43c0-a1ba-d49d93959dd0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd75e7dd-3fdc-493d-892e-ee13c248d916.jpg)
