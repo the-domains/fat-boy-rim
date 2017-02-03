@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:04:43.121Z'
+datePublished: '2017-02-03T20:07:01.487Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:04:42.554Z'
+dateModified: '2017-02-03T20:07:00.666Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -55,11 +55,11 @@ The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the 
 
 That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\. 
 
-To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
 
 ## The problem with tyres
 
-Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size **23**, and what your bike is really wearing this season is 25mm tyres. That's right - **25mm** wide.
+Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size **23**, and what your bike's really wearing this season are 25mm tyres. That's right - **25mm** wide.
 
 And let's not forget that many riders are now buying into the latest performance craze and riding tyres with 25 written on their sides - but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre - not to mention all that extra rotating weight - for most rims to manage without requiring very high inflation pressures in excess of 100 - 120 psi to stabilise the tread, resulting in sidewall bulge, light bulb effect, whatever you want to call it. 
 
