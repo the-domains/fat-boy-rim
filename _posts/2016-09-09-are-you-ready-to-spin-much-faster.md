@@ -1,20 +1,20 @@
 ---
-datePublished: '2017-02-03T17:21:47.916Z'
+datePublished: '2017-02-03T17:55:07.909Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T17:21:47.192Z'
+dateModified: '2017-02-03T17:55:06.831Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
   url: 'http://ridefullgas.com/'
 description: >-
-  I’ve engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff,
-  robust, and durable. You know, all that stuff that every brand of wheels
-  claims for their own - some more truthfully, some more optimistically than
-  others.
+  I’ve engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff,
+  robust, and durable. You know, all that stuff that every high-performance
+  brand of wheels lays claim to - some more truthfully, and many more
+  optimistically than others.
 starred: true
 datePublishedOriginal: '2016-10-07T09:43:15.689Z'
 url: hey-fatboy/index.html
@@ -26,9 +26,21 @@ _type: Article
 # Whether you're a flyweight climber, powerful puncheur, or outright speedstar, you'll spin so much faster on these Fat Boy Rims
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1bb215-eeba-4212-81e6-09c17761bb9d.jpg)
 
-I've engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every brand of wheels claims for their own - some more truthfully, some more optimistically than others.
+I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance brand of wheels lays claim to - some more truthfully, and many more optimistically than others.
 
-But with these DM8 series rim profiles, I've also aimed to do something _significantly _better than any other high-performance wheel on the market. That is, _optimise _the ride performance of **25mm **(and upto 28mm) tyres.
+But with the DM8 series rim profiles, all of that is not enough. I wanted to go one step further than anyone else, in order to focus on, and _optimise _the ride performance of **25mm **(and upto 28mm) tyres.
+
+It's for this reason that DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve or to my knowledge any other purveyor of fine fast wheels.
+
+My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is more! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
+
+> Get More! Speed. Grip. Comfort. Safety.
+
+> Get more for less! 
+
+DM8s are upto 30mm at their widest, yet fit most modern road, race, track, gravel and cx bikes thanks to a tapered brake surface design that narrows down to under 27mm at the rim's circumference - that's less than the width of most high quality performance tyres sold as a "25" these days. Choose from two build variations and three rim depths, from 1470 grams and £990 / pair.
+
+I build each and every DM8 wheel entirely by hand, and customise the build precisely for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
 My previous and best selling generation rims - the X/DMX series - were originally engineered to do the same thing for those 23mm tyres that we all rode just a few years ago. And these wheels did this beautifully. The only problem is, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and bigger.
 
@@ -42,11 +54,23 @@ And it's with this aim of creating the perfect tread profile - smoothly arcing f
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
+---
+
 DM8s are upto 30mm at their widest, yet fit most modern road, race, track, gravel and cx bikes thanks to a tapered brake surface design that narrows down to under 27mm at the rim's circumference - that's less than the width of most high quality performance tyres sold as a "25" these days. Choose from two build variations and three rim depths, from 1470 grams and £990 / pair.
 
 I build each and every DM8 wheel entirely by hand, and customise the build precisely for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
----
+My previous and best selling generation rims - the X/DMX series - were originally engineered to do the same thing for those 23mm tyres that we all rode just a few years ago. And these wheels did this beautifully. The only problem is, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and bigger.
+
+That's why I took everything I learnt over 5 or 6 years with the DMX profiles, and started work on DM8, back in the second half of 2015\. And to my knowledge, most other big-name wide profile road wheels on the market today - which are all narrower than DM8 - are still therefore really only able to deliver optimal real world performance when genuine width 23mm tyres are fitted. Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres.
+
+At the end of the day, the entire purpose of your wheels (in fact, the one and _only _purpose of your entire bike!) is to connect you to Planet Earth- as fast, as securely, and with as much feedback and fun thrown in as physically possible.
+
+To do this well, it simply all boils down to how your tyre is served up and delivered to the road, the trail or the boards. So the shape of the tyre tread, as well as the pressure holding it in place, and how these two factors influences its performance is something I've spent a great deal of time thinking on and investigating.
+
+And it's with this aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series is born.
+
+What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
 DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. And with weights from 1470g a pair, these Fat Boys can't even be accused of being heavy.
 
