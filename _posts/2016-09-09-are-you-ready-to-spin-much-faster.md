@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T22:28:05.341Z'
+datePublished: '2017-02-03T22:31:54.392Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T22:28:04.792Z'
+dateModified: '2017-02-03T22:31:53.293Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -37,7 +37,7 @@ In my view, it's simply not enough to be _just _aero, light and stiff. Most of t
 
 More specifically, matching rim and tyre width for optimal performance. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know it!
 
-It's for this specific reason that the DM8s are so wide. Wider internally in fact than any wheel currently offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels. Anything skinnier than a DM8, and a 25mm tyre cannot attain its optimal tread shape. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
+It's for this specific reason that the DM8s are so wide. Wider internally in fact than any wheel currently offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels. Many of these otherwise fine wheels have their marketing gimmicks tagged on - dimples, spoilers, stick-on fairings, extra loud stickers, sharks tooth inner radii. But the thing that none of these "solutions" addresses is optimal tyre pressure and tread profile. And the fact is, anything skinnier than a DM8 rim, and those 25mm tyres we're all riding these days cannot attain its optimal shape. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
