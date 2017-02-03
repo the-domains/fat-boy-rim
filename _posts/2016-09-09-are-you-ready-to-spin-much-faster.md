@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T22:31:54.392Z'
+datePublished: '2017-02-03T22:36:55.546Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T22:31:53.293Z'
+dateModified: '2017-02-03T22:36:55.010Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -29,13 +29,13 @@ _type: Article
 I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance wheel brand lays claim to - some more _truthfully_, and many more _optimistically _than others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac32ca9d-a758-431a-bfd4-98b95200dcc6.jpg)
 
-But for the DM8 series rim profiles, all of that was simply not enough. After all, I already had my most successful, well established DMX range of wheels chugging along nicely thanks, and the DMX wheels tick all those boxes and rate and always compare against the much more expensive competition most favourably. 
+But for the DM8 series rim profiles, all of that was simply not enough. After all, I already had my most successful and well established DMX range of wheels chugging along nicely thanks, and the DMX wheels ticked all those boxes loud and clear.
 
-With DM8 I wanted to go beyond DMX, and at least one stage further than any other maker has yet considered for their premium performance road wheels. 
+So with DM8 what I wanted was to go way beyond DMX, and at least one stage further than any other maker has yet considered for their premium performance road wheels. 
 
-In my view, it's simply not enough to be _just _aero, light and stiff. Most of the really top-end, big bucks wheels get this just about right, more or less. But if you want to go really fast out there in the real world, consistently, and always in supreme comfort and sure-footed safety, your tyres are in fact the key. 
+In my view, it's simply not enough to be _just _aero, light and stiff. Most of the really top-end, big bucks wheels get this just about right - more or less. But if you want to go really fast out there in the real world, consistently fast and always in supreme comfort and sure-footed safety, your tyres are in fact the key. 
 
-More specifically, matching rim and tyre width for optimal performance. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know it!
+More specifically, matching the rim to the tyre width to achieve the optimal performance window of the tyre. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know it!
 
 It's for this specific reason that the DM8s are so wide. Wider internally in fact than any wheel currently offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels. Many of these otherwise fine wheels have their marketing gimmicks tagged on - dimples, spoilers, stick-on fairings, extra loud stickers, sharks tooth inner radii. But the thing that none of these "solutions" addresses is optimal tyre pressure and tread profile. And the fact is, anything skinnier than a DM8 rim, and those 25mm tyres we're all riding these days cannot attain its optimal shape. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
 
