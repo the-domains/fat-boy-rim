@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T19:18:08.516Z'
+datePublished: '2017-02-03T19:27:11.949Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T19:18:07.793Z'
+dateModified: '2017-02-03T19:27:11.277Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -60,25 +60,25 @@ But fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in si
 
 ## So what does all this matter?
 
-At the end of the day, the entire purpose of your wheels (in fact, the one and _only _purpose of your entire bike!) is to connect you to Planet Earth- as fast, as securely, and with as much feedback and fun thrown in as physically possible.
+At the end of the day, the entire purpose of your wheels - in fact, it's the one and _only _purpose of your entire bike! - is to connect you to Planet Earth: as fast, as securely, and with as much feedback and fun thrown in as physically possible.
 
-To do this well, it simply all boils down to how your tyre is served up and delivered to the road, the trail or the boards. So the shape of the tyre tread, as well as the pressure holding it in place, and how these two factors influences its performance is something I've spent a great deal of time thinking on and investigating.
+To do this well, it all boils down to how your tyre is served up and delivered to the road, the trail or the boards. Nothing simpler than that. So the shape of the tyre tread, as well as the amount of pressure required to hold it in place, and how these two factors combine to influence tyre performance is something that I've spent a great deal of time thinking on and investigating.
 
-And it's with this aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series is born.
+And it was with this simple aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series was born.
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. And with weights from 1470g a pair, these Fat Boys can't even be accused of being heavy.
+DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
 
-Priced from £990 - £1099 a pair, they won't leave your wallet entirely empty. Unlike the many lesser performing but over-priced wheels you could go and get yourself instead from any of the bigger wheel brands.
+Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty - unlike many better known, but lesser performing, over-priced wheels you could go and get yourself instead from any of the usual suspect big boy wheel brands.
 
-The DM8 series represents the physical embodiment of everything I've learnt about engineering, making and riding great wheels, so naturally I love 'em. And I'm convinced you will too.
+The DM8 series wheels represent everything I've learnt about engineering, making and riding great wheels, so naturally I love 'em. And I'm convinced you will too.
 
 But who cares what I think? Why not see what the riders who're already spinning their own DM8s have to say?
 [Read the reviews!][0]
-[Buy Now!][1]
+[I'm ready to Spin On These! Make mine now!][1]
 
-Here's some I made earlier ...
+To whet your appetite for a new life of effortless speed out on the road, here's some wheels I made earlier ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d83b794-9b5c-493f-9fb1-76801e70088e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4765c3bf-9a01-43c0-a1ba-d49d93959dd0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd75e7dd-3fdc-493d-892e-ee13c248d916.jpg)
