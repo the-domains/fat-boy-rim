@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:57:43.215Z'
+datePublished: '2017-02-03T20:58:02.389Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:57:42.074Z'
+dateModified: '2017-02-03T20:58:00.917Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -40,7 +40,7 @@ My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one e
 
 ## More Speed. More Grip. More Comfort. More Control. More wheel!
 
-> Demand more but spend less! Less cash. Less effort. More wheel!
+> Demand more - spend less! Less cash. Less effort. More wheel!
 
 DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below! 
 
