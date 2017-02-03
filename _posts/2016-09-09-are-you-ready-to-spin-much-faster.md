@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:07:01.487Z'
+datePublished: '2017-02-03T20:07:36.226Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:07:00.666Z'
+dateModified: '2017-02-03T20:07:35.409Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -55,7 +55,7 @@ The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the 
 
 That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\. 
 
-To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. 
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3d85b5-f7db-45eb-8c9b-faad72118a0a.jpg)
 
 ## The problem with tyres
 
