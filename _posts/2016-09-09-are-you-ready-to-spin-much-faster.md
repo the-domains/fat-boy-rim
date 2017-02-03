@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:07:36.226Z'
+datePublished: '2017-02-03T20:10:52.189Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:07:35.409Z'
+dateModified: '2017-02-03T20:10:50.454Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -72,6 +72,7 @@ Conversely, those bulging sidewalls round off the tread area's all important sho
 At the end of the day, the entire purpose of your wheels - in fact, it's the one and _only _purpose of your entire bike! - is to connect you to Planet Earth: as fast, as securely, and with as much feedback and fun thrown in as physically possible.
 
 To do this well, it all boils down to how your tyre is served up and delivered to the road, the trail or the boards. Nothing simpler than that. So the shape of the tyre tread, as well as the amount of pressure required to hold it in place, and how these two factors combine to influence tyre performance is something that I've spent a great deal of time thinking on and investigating.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9178b60b-0b50-4493-8efe-e5a024d57d8c.jpg)
 
 And it was with this simple aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series was born.
 
