@@ -1,15 +1,15 @@
 ---
-datePublished: '2017-02-03T17:11:30.988Z'
+datePublished: '2017-02-03T17:15:43.817Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T17:11:26.459Z'
+dateModified: '2017-02-03T17:15:43.129Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
-  url: ''
+  url: 'http://ridefullgas.com/'
 description: >-
   I’ve engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff,
   robust, and durable. You know, all that stuff that every brand of wheels
@@ -24,7 +24,7 @@ _type: Article
 # Hey! \#FatBoy!
 
 # Whether you're a flyweight climber, powerful puncheur, or outright speedstar, you'll spin so much faster on these Fat Boy Rims
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d31ecc-5f44-4e3a-87ed-137727f4c2e7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1bb215-eeba-4212-81e6-09c17761bb9d.jpg)
 
 I've engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every brand of wheels claims for their own - some more truthfully, some more optimistically than others.
 
