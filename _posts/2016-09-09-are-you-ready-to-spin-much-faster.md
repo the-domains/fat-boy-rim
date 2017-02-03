@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T21:00:26.904Z'
+datePublished: '2017-02-03T22:18:23.855Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T21:00:25.782Z'
+dateModified: '2017-02-03T22:18:23.138Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -13,8 +13,8 @@ publisher:
 description: >-
   I’ve engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff,
   robust, and durable. You know, all that stuff that every high-performance
-  brand of wheels lays claim to - some more truthfully, and many more
-  optimistically than others.
+  wheel brand lays claim to - some more truthfully, and many more optimistically
+  than others.
 starred: true
 datePublishedOriginal: '2016-10-07T09:43:15.689Z'
 url: hey-fatboy/index.html
@@ -26,23 +26,27 @@ _type: Article
 # Whether you're a flyweight climber, powerful puncheur, or Red Hook racer, you'll spin so much faster on these Fat Boy Rims
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1bb215-eeba-4212-81e6-09c17761bb9d.jpg)
 
-I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance brand of wheels lays claim to - some more truthfully, and many more optimistically than others.
+I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance wheel brand lays claim to - some more truthfully, and many more optimistically than others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac32ca9d-a758-431a-bfd4-98b95200dcc6.jpg)
 
-But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet appeared to consider for their premium performance road wheels. It's not enough just to be aero, light and stiff. If you want to go fast, in comfort and safety, tyres are in fact key. So my focus with DM8 was on _optimising _the ride performance of **25mm **(and upto 28mm) tyres.
+But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet considered for their premium performance road wheels. In my view, it's not enough just to be aero, light and stiff. Most of the really top-end big bucks wheels get this just about right, more or less.
+
+But if you want to go fast out in the real world, consistently, in supreme comfort and sure-footed safety, your tyres are in fact the key. More specifically, matching rim and tyre width for optimal performance. So my focus with DM8 was on _optimising _ride performance with **25mm **(and upto 28mm) tyres. Because those are what every roadie and racer rides these days - even if they don't yet know so!
 
 It's for this reason that the DM8s are so wide. Wider internally in fact than any wheel currently made and offered by Zipp, Enve, Reynolds, Easton, Mavic, Fulcrum, FFWD, Campagnolo, Shimano, or to my knowledge, any other purveyor of fine and fast wheels.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-## Get more from your wheels! 
+## Get more from your wheels!
 
 ## More Speed. More Grip. More Comfort. More Control. More wheel!
 
 > Demand more - spend less! Less cash. Less effort. More wheel!
 
-DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below! 
+DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below!
+
+> The DM8s are wider than many wheels are deep!
 
 Choose from two build variations for the **road**, centre lock **disc **with **thru-axles** for **road/gravel/CX**, or fixed/fixed **track** hubs to go race those Red Hook Crits. Combine with three rim depths and the DM8s range from **1470 grams** and **£990 / pair**.
 
@@ -52,21 +56,22 @@ Please read on to find out how DM8 came about, and why these very fast \#FatBoys
 
 ---
 
-You see, my previous generation rims - the X/DMX series - were engineered specifically to work best with those 23mm tyres that we were all still riding the road just a few years back. As with DM8, this factor was the starting point for the rim design, determining from the very outset the ideal internal and external widths. 
+You see, my previous generation rims - the X/DMX series - were engineered specifically to work best with those 23mm tyres that we were all still riding the road just a few years back. As with DM8, this factor was the starting point for the rim design, determining from the very outset the ideal internal and external widths.
 
 The X/DMX wheels rode like the wind on these 23mm tyres, and so they became the fastest wheels I'd made - as well as my fastest selling! The only problem was that soon after, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and even bigger.
 
-That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\. 
+That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and put it to work on DM8, back in the second half of 2015\.
 
-To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3d85b5-f7db-45eb-8c9b-faad72118a0a.jpg)
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3d85b5-f7db-45eb-8c9b-faad72118a0a.jpg)
 
 ## The problem with tyres
 
 Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size **23**, and what your bike's really wearing this season are 25mm tyres. That's right - **25mm** wide.
 
-And let's not forget that many riders are now buying into the latest performance craze and riding tyres with 25 written on their sides - but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre - not to mention all that extra rotating weight - for most rims to manage without requiring very high inflation pressures in excess of 100 - 120 psi to stabilise the tread, resulting in sidewall bulge, light bulb effect, whatever you want to call it. 
+And let's not forget that many riders are now buying into the latest performance craze and riding tyres with 25 written on their sides - but failing to notice that these often come in around 27-29mm wide for real. It's way too much tyre - not to mention all that extra rotating weight - for most rims to manage without requiring very high inflation pressures in excess of 100 - 120 psi to stabilise the tread, resulting in sidewall bulge, light bulb effect, whatever you want to call it.
 
-The problem with this bulge is its effect on the tread shape, tending to flatten it off at the upper section, which increases roll resistance, effectively wasting grip where it's not needed. Think of your bike in the fully upright, power-on position - you'll realise that in this scenario you don't need excess amounts of grip, just plenty of contour hugging micro-deformation in the tyre carcass to smooth out the surface and waste the minimum energy in bouncing off the road. 
+The problem with this bulge is its effect on the tread shape, tending to flatten it off at the upper section, which increases roll resistance, effectively wasting grip where it's not needed. Think of your bike in the fully upright, power-on position - you'll realise that in this scenario you don't need excess amounts of grip, just plenty of contour hugging micro-deformation in the tyre carcass to smooth out the surface and waste the minimum energy in bouncing off the road.
 
 Conversely, those bulging sidewalls round off the tread area's all important shoulders, delivering a much smaller contact patch where the very broadest contact area is precisely most needed - think of your bike leaning into that high speed corner coming down your favourite alpine col. Or that streaming wet town centre junction in the middle of your training ride.
 
@@ -81,7 +86,8 @@ And it was with this simple aim of creating the perfect tread profile - smoothly
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf1c550-dfc5-4d41-b54d-657a38a723ee.jpg)
+DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf1c550-dfc5-4d41-b54d-657a38a723ee.jpg)
 
 Each wheel can be built in road standard for QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs for go anywhere thru-axled bikes. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3ec60e-ec7d-4b32-9f74-89548794e526.jpg)
@@ -92,8 +98,6 @@ The DM8 series wheels represent everything I've learnt about engineering, making
 
 But who cares what I think? It's much more fun to take a look at what the riders who're already spinning their own DM8s have to say by hitting this button below.
 [DM8s reviewed][0]
-
-## 
 
 ## Are you ready to Spin On These?
 [Make me some now!][1]
