@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:34:44.212Z'
+datePublished: '2017-02-03T20:38:41.502Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:34:43.658Z'
+dateModified: '2017-02-03T20:38:40.417Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -81,7 +81,7 @@ And it was with this simple aim of creating the perfect tread profile - smoothly
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. 
+DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf1c550-dfc5-4d41-b54d-657a38a723ee.jpg)
 
 Each wheel can be built in road standard for QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs for go anywhere thru-axled bikes. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3ec60e-ec7d-4b32-9f74-89548794e526.jpg)
@@ -92,6 +92,9 @@ The DM8 series wheels represent everything I've learnt about engineering, making
 
 But who cares what I think? Why not see what the riders who're already spinning their own DM8s have to say?
 [DM8s reviewed][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/858f995b-6ec0-46e7-9ab0-62a4c9efab3f.jpg)
+
+## 
 
 ## Ready to Spin On These?
 [Make mine now!][1]
