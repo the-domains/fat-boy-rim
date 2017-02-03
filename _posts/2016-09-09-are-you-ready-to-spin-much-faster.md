@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:32:32.091Z'
+datePublished: '2017-02-03T20:34:44.212Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:32:30.579Z'
+dateModified: '2017-02-03T20:34:43.658Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -84,6 +84,7 @@ What all of this means to you, out on your bike is _more _speed, _more _grip, _m
 DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss. 
 
 Each wheel can be built in road standard for QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs for go anywhere thru-axled bikes. And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3ec60e-ec7d-4b32-9f74-89548794e526.jpg)
 
 Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty - unlike many better known, but lesser performing, over-priced wheels you could go and get yourself instead from any of the usual suspect big boy wheel brands.
 
