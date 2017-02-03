@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T19:52:30.314Z'
+datePublished: '2017-02-03T19:53:57.340Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T19:52:29.600Z'
+dateModified: '2017-02-03T19:53:56.776Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -84,7 +84,9 @@ The DM8 series wheels represent everything I've learnt about engineering, making
 
 But who cares what I think? Why not see what the riders who're already spinning their own DM8s have to say?
 [Read the reviews!][0]
-[I'm ready to Spin On These! Make mine now!][1]
+
+## Ready to Spin On These?
+[Make mine now!][1]
 
 To whet your appetite for a new life of effortless speed out on the road, here's some wheels I made earlier ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d83b794-9b5c-493f-9fb1-76801e70088e.jpg)
