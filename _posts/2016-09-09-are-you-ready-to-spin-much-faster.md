@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:56:11.010Z'
+datePublished: '2017-02-03T20:57:43.215Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:56:09.772Z'
+dateModified: '2017-02-03T20:57:42.074Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -36,7 +36,7 @@ It's for this reason that the DM8s are so wide. Wider internally in fact than an
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-## Get more out of your wheels! 
+## Get more from your wheels! 
 
 ## More Speed. More Grip. More Comfort. More Control. More wheel!
 
