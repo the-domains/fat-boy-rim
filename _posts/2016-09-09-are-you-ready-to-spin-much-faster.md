@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:01:15.710Z'
+datePublished: '2017-02-03T20:04:43.121Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:01:14.865Z'
+dateModified: '2017-02-03T20:04:42.554Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -27,6 +27,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1bb215-eeba-4212-81e6-09c17761bb9d.jpg)
 
 I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance brand of wheels lays claim to - some more truthfully, and many more optimistically than others.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac32ca9d-a758-431a-bfd4-98b95200dcc6.jpg)
 
 But with the DM8 series rim profiles, all of that is not enough. I wanted to go one stage further than any other maker has yet appeared to consider for their premium performance road wheels. It's not enough just to be aero, light and stiff. If you want to go fast, in comfort and safety, tyres are in fact key. So my focus with DM8 was on _optimising _the ride performance of **25mm **(and upto 28mm) tyres.
 
