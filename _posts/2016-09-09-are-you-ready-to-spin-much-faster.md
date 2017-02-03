@@ -1,15 +1,15 @@
 ---
-datePublished: '2017-02-02T22:10:46.697Z'
+datePublished: '2017-02-03T17:10:32.300Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-02T22:10:46.007Z'
+dateModified: '2017-02-03T17:10:31.369Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
-  url: 'http://ridefullgas.com/'
+  url: ''
 description: >-
   I’ve engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff,
   robust, and durable. You know, all that stuff that every brand of wheels
@@ -23,20 +23,20 @@ _type: Article
 ---
 # Hey! \#FatBoy!
 
-# Whether you're a flyweight climber, powerful puncheur, or outright Speedstar, you'll spin so much faster on these Fat Boy Rims
+# Whether you're a flyweight climber, powerful puncheur, or outright speedstar, you'll spin so much faster on these Fat Boy Rims
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d31ecc-5f44-4e3a-87ed-137727f4c2e7.jpg)
 
 I've engineered these Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every brand of wheels claims for their own - some more truthfully, some more optimistically than others.
 
-But with these DM8 series rim profiles, I've also aimed to do something _significantly _better than any other high-performance wheel on the market. That is, _optimise _the ride performance of **25mm **(and upto 28mm) tyres. 
+But with these DM8 series rim profiles, I've also aimed to do something _significantly _better than any other high-performance wheel on the market. That is, _optimise _the ride performance of **25mm **(and upto 28mm) tyres.
 
-My previous and best selling generation rims - the X/DMX series - were originally engineered to do the same thing for those 23mm tyres that we all rode just a few years ago. And these wheels did this beautifully. The only problem is, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and bigger. 
+My previous and best selling generation rims - the X/DMX series - were originally engineered to do the same thing for those 23mm tyres that we all rode just a few years ago. And these wheels did this beautifully. The only problem is, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and bigger.
 
-That's why I took everything I learnt over 5 or 6 years with the DMX profiles, and started work on DM8, back in the second half of 2015\. And to my knowledge, most other big-name wide profile road wheels on the market today - which are all narrower than DM8 - are still therefore really only able to deliver optimal real world performance when genuine width 23mm tyres are fitted. Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. 
+That's why I took everything I learnt over 5 or 6 years with the DMX profiles, and started work on DM8, back in the second half of 2015\. And to my knowledge, most other big-name wide profile road wheels on the market today - which are all narrower than DM8 - are still therefore really only able to deliver optimal real world performance when genuine width 23mm tyres are fitted. Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres.
 
-At the end of the day, the entire purpose of your wheels (in fact, the one and _only _purpose of your entire bike!) is to connect you to Planet Earth- as fast, as securely, and with as much feedback and fun thrown in as physically possible. 
+At the end of the day, the entire purpose of your wheels (in fact, the one and _only _purpose of your entire bike!) is to connect you to Planet Earth- as fast, as securely, and with as much feedback and fun thrown in as physically possible.
 
-To do this well, it simply all boils down to how your tyre is served up and delivered to the road, the trail or the boards. So the shape of the tyre tread, as well as the pressure holding it in place, and how these two factors influences its performance is something I've spent a great deal of time thinking on and investigating. 
+To do this well, it simply all boils down to how your tyre is served up and delivered to the road, the trail or the boards. So the shape of the tyre tread, as well as the pressure holding it in place, and how these two factors influences its performance is something I've spent a great deal of time thinking on and investigating.
 
 And it's with this aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series is born.
 
