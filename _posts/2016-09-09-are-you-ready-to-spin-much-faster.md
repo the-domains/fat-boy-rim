@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:47:32.667Z'
+datePublished: '2017-02-03T20:56:11.010Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:47:30.068Z'
+dateModified: '2017-02-03T20:56:09.772Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -98,13 +98,15 @@ But who cares what I think? It's much more fun to take a look at what the riders
 ## Are you ready to Spin On These?
 [Make me some now!][1]
 
-To whet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails
+To whet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails...
 
 ## Here's some of the wheels I made earlier ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d83b794-9b5c-493f-9fb1-76801e70088e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4765c3bf-9a01-43c0-a1ba-d49d93959dd0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd75e7dd-3fdc-493d-892e-ee13c248d916.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41337684-f79e-4728-8e04-26a21f1ba461.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f58d2f8-3559-45dd-bf29-33970fdeb569.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/869995bd-ca8b-44f9-8e2e-e602294d5998.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee44936-9797-4ce3-b36f-6d93c4802fe3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2614e2-45c2-45fc-b205-54e16380a8d0.jpg)
 
