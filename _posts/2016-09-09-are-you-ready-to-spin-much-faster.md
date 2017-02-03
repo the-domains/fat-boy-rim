@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T18:15:41.371Z'
+datePublished: '2017-02-03T18:22:22.227Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T18:15:40.420Z'
+dateModified: '2017-02-03T18:22:20.104Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -50,7 +50,9 @@ You see, my previous generation rims - the X/DMX series - were engineered specif
 
 The only problem was that soon after, everyone started riding 25mm tyres. Oh, and at the same time, tyre makers started making their 23s truly 25mm across and even bigger.
 
-That's why I took everything I learnt over 5 or 6 years with the DMX profiles, and started work on DM8, back in the second half of 2015\. And to my knowledge, most other big-name wide profile road wheels on the market today - which are all narrower than DM8 - are still therefore really only able to deliver optimal real world performance when genuine width 23mm tyres are fitted. Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres.
+That's why I took everything learnt from more than 5 years working and developing the DMX profiles and wheelsets, and started work on DM8, back in the second half of 2015\. 
+
+To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower rims than I'm using with DM8\. And because of this, all such wheels are still therefore only able to deliver optimal real world performance when paired up with genuine width 23mm tyres. But fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size 23, and what your bike is really wearing this season is 25mm tyres. And let's not forget that many riders are putting 25s on, not noticing that these tyres often come in around 27-29mm wide for real.
 
 At the end of the day, the entire purpose of your wheels (in fact, the one and _only _purpose of your entire bike!) is to connect you to Planet Earth- as fast, as securely, and with as much feedback and fun thrown in as physically possible.
 
