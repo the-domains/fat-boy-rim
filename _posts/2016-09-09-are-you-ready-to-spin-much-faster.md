@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T18:23:06.299Z'
+datePublished: '2017-02-03T18:27:06.140Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T18:23:05.713Z'
+dateModified: '2017-02-03T18:27:05.216Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -34,15 +34,17 @@ It's for this reason that DM8s are so wide. Wider internally in fact than any wh
 
 My goal with DM8 was perfect tread profiles - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
-> Get More! Speed. Grip. Comfort. Safety.
+## Get more out of your wheels! 
 
+## More Speed. More Grip. More Comfort. More Control. 
+> 
 > Get more for less! 
 
 DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. Choose from two build variations and three rim depths - from 1470 grams and £990 / pair.
 
 I make each and every wheel entirely by hand, and customise the build precisely - for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
-Read on to find out how DM8 came about, and why they entirely supercede my previous best-selling DMX wheel range.
+Read on to find out how and why DM8 came about, and why the DM8s entirely outperform and supercede my previous best-selling DMX range of wheels.
 
 ---
 
