@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-03T20:18:01.721Z'
+datePublished: '2017-02-03T20:20:36.610Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-03T20:18:01.030Z'
+dateModified: '2017-02-03T20:20:35.878Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -46,7 +46,7 @@ DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, 
 
 I make each and every wheel entirely by hand, and customise the build precisely - for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
-Please read on to find out how and why DM8 came about, and why these very fast \#FatBoys entirely outperform and supercede my previous best-selling DMX range of wheels.
+Please read on to find out how DM8 came about, and why these very fast \#FatBoys entirely outperform and supercede my previous best-selling DMX range of wheels.
 
 ---
 
