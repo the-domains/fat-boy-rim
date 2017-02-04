@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-30T14:08:24.428Z'
+datePublished: '2017-02-04T10:40:48.492Z'
 sourcePath: >-
   _posts/2016-09-19-lewis-askey-takes-the-british-u14-road-race-title-spinonth.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
     url: 'https://www.instagram.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-01-30T14:08:14.122Z'
+dateModified: '2017-02-04T10:40:42.986Z'
 title: 'Lewis Askey takes the British U14 Road Race Title: #SpinOnThese #WinOnThese'
 app_links:
   - url: 'instagram://media?id=1030633112079178689'
