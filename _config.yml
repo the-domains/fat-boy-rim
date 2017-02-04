@@ -22,7 +22,7 @@ navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
-  - name: Ride Custom! Speed Metal Titanium
+  - name: 'Speed Metal Custom: Titanium Bikes'
     url: 'http://speedmetal.bike/'
     type: external
 favicon: >-
