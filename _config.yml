@@ -25,9 +25,6 @@ navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
-  - name: 'Speed Metal Custom: Titanium Bikes'
-    url: 'http://speedmetal.bike/'
-    type: external
   - name: DM8 Wheels
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
