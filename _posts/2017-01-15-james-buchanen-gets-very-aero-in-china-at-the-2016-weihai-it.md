@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-30T14:12:59.671Z'
-datePublished: '2017-01-30T14:13:00.689Z'
+dateModified: '2017-02-04T10:17:15.658Z'
+datePublished: '2017-02-04T10:17:17.179Z'
 title: 'James Buchanen: #SpinOnThese in China at the 2016 Weihai ITU Elite Long Course'
 author: []
 publisher:
