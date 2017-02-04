@@ -28,6 +28,9 @@ navigation:
   - name: DM8 Wheels
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
+  - name: 'Speed Metal Custom: Titanium Bikes'
+    url: 'http://speedmetal.bike'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4b3c02-a0dc-4731-8294-5def0bf8a0c9.png
 title: Spin On These! Koppenberg Fat Boys
