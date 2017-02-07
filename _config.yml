@@ -19,7 +19,7 @@ author:
   email: spinfo@ridefullgas.com
   url: 'http://ridefullgas.com/'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa704ece-4ab7-40ce-bc1a-1e98f722bc65.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe1e0c7f-f246-428d-a463-72893a899cd8.png
 name: Fat Boy Rim
 navigation:
   - name: Shop
@@ -32,7 +32,7 @@ navigation:
     url: 'http://speedmetal.bike'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c712a4fb-67ba-46fb-bd63-62d75ebd8ff1.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
 title: Spin On These! Koppenberg Fat Boys
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
