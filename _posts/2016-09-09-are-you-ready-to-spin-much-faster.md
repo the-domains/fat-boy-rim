@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T16:20:00.110Z'
+datePublished: '2017-02-08T16:20:30.844Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T16:19:58.669Z'
+dateModified: '2017-02-08T16:20:29.585Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -112,7 +112,7 @@ But who cares what I think? It's much more fun to take a look at what the riders
 [DM8s reviewed][0]
 
 ## Are you ready to Spin On These?
-[Make me some now!][1]
+[I'm ready! Make mine now!][1]
 
 To wet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails...
 
