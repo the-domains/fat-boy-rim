@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T16:39:35.612Z'
+datePublished: '2017-02-08T16:41:39.426Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T16:39:34.675Z'
+dateModified: '2017-02-08T16:41:38.329Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -58,7 +58,7 @@ Choose from two build variations for the **road**, centre lock **disc **with **t
 
 I make each and every wheel entirely by hand, and customise the build precisely - for you and the way you ride. They're the best wheels I've ever made. And I'm confident that they're the best wheels you'll have ridden - ever!
 
-Please read on to find out how DM8 came about, and why these very fast \#FatBoys entirely outperform and supercede my previous best-selling DMX range of wheels.
+Please read on to find out how DM8 came about, and why these very fast \#FatBoys entirely outperform and supersede my previous best-selling DMX range of wheels.
 
 ---
 
