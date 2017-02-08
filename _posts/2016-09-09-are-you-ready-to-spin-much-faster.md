@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T15:55:28.200Z'
+datePublished: '2017-02-08T15:58:32.485Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T15:55:27.261Z'
+dateModified: '2017-02-08T15:58:31.613Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -42,7 +42,7 @@ It's for this specific reason that the DM8s are so wide. Wider internally in fac
 Sometimes I think that many of these otherwise fine wheels have their gimmicks tagged on by the marketing department - dimples, spoilers, stick-on fairings, extra-loud stickers, sharks tooth inner radii. I have my fun with this part of the game too, so this is not a complaint from me. But the thing that none of these "solutions" address is perhaps the most important of all: the question of optimising the size of tyre everyone is riding these days. And the fact is, on anything skinnier than a DM8 rim, those 25mm tyres cannot attain their optimal shape.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94c5721-3491-442e-819e-15298097a8f6.jpg)
 
-My goal with DM8 was perfect tread profiles with 25mm tyres - tyres that smoothly arc from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
+My goal with DM8 was perfect tread profiles with 25mm tyres - tyres that arc smoothly from one edge of the rim to the other, without any need for high pressures nor bulging sidewalls. Because what this means to you, out on your bike is _**more**_! _More _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
 
 ## Get more from your wheels!
 
