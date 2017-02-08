@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T16:15:03.755Z'
+datePublished: '2017-02-08T16:19:23.601Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T16:15:02.532Z'
+dateModified: '2017-02-08T16:19:22.596Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -91,6 +91,7 @@ To do this well, it all boils down to how your tyre is served up and delivered t
 And it was with this simple aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series was born.
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de7cd24-f283-4e0b-95fb-1e6e42c9b862.jpg)
 
 DM8s come in three depths and two build variations. From the ride anywhere anytime Flyweight 38mm DM838s, through the all rounder Rouleur 45mm DM845s, to the flat out Speedster 58mm DM858ss.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ed5d97e-1f9f-418c-84a8-a6c6f274a892.jpg)
