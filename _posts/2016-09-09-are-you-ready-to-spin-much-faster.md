@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T16:10:54.939Z'
+datePublished: '2017-02-08T16:15:03.755Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T16:10:53.087Z'
+dateModified: '2017-02-08T16:15:02.532Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -103,6 +103,7 @@ And with weights from 1470g a pair, these bad boys pull off that magic trick of 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3ec60e-ec7d-4b32-9f74-89548794e526.jpg)
 
 Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty - unlike many better known, but lesser performing, over-priced wheels you could go and get yourself instead from any of the usual suspect big boy wheel brands.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e47ed5a-9d1a-4de1-a470-edc8e5797b46.jpg)
 
 The DM8 series wheels represent everything I've learnt about engineering, making and riding great wheels, so naturally I love 'em. And I'm convinced you will too.
 
