@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T15:59:48.677Z'
+datePublished: '2017-02-08T16:00:27.416Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T15:59:47.966Z'
+dateModified: '2017-02-08T16:00:26.579Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -52,7 +52,7 @@ My goal with DM8 was perfect tread profiles with 25mm tyres - tyres that arc smo
 
 DM8s are upto 30mm at their widest, yet will fit most modern road, race, track, gravel and CX bikes. You can find out how by clicking the read on link below!
 
-> The DM8s are wider than many wheels are deep!
+> DM8 rims are wider than most rims are deep!
 
 Choose from two build variations for the **road**, centre lock **disc **with **thru-axles** for **road/gravel/CX**, or fixed/fixed **track** hubs to go race those Red Hook Crits. Combine with three rim depths and the DM8s range from **1470 grams** and **£990 / pair**.
 
