@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-08T16:20:30.844Z'
+datePublished: '2017-02-08T16:39:35.612Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-08T16:20:29.585Z'
+dateModified: '2017-02-08T16:39:34.675Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -97,10 +97,16 @@ DM8s come in three depths and two build variations. From the ride anywhere anyti
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ed5d97e-1f9f-418c-84a8-a6c6f274a892.jpg)
 
 Each wheel can be built in road standard for QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs for go anywhere thru-axled bikes. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cc96a4-ac87-48bf-bace-dac2002deae3.jpg)
+
+Custom options for road builds include your choice of hub from several colours and finishes, including these rather fetching, very limited polished alloy versions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/779643ae-62a2-4ce5-b801-c485e467e602.jpg)
+
+Track hubs are fixed/fixed at the rear, and any colour you like so long as it's black. But it's entirely your choice to go super stealth with these shot peened matt hubs, or super sexy with the deep gloss version.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84696492-ec8e-4f7b-a527-d5833b1b90ba.jpg)
 
-And with weights from 1470g a pair, these bad boys pull off that magic trick of being super fat without being heavy.
+On road builds, I can increase torsional stiffness in the rear by choosing the Supersymmetry R55 rear hub - it adds a few grams over the asymmetric R50 hub, but is a huge benefit to heavier and more powerful riders
+
+DM8s weight in from 1470g a pair, so these bad boys pull off that magic trick of being super fat without being heavy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f3ec60e-ec7d-4b32-9f74-89548794e526.jpg)
 
 Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty - unlike many better known, but lesser performing, over-priced wheels you could go and get yourself instead from any of the usual suspect big boy wheel brands.
