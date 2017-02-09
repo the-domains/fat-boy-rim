@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-09T14:43:17.668Z'
+datePublished: '2017-02-09T14:45:16.870Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-09T14:43:16.866Z'
+dateModified: '2017-02-09T14:45:16.115Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -144,7 +144,11 @@ Catherine Jameson
 
 World Men's Road Race Champ Maurizio Fondriest and friends
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee44936-9797-4ce3-b36f-6d93c4802fe3.jpg)
+
+Catherine Jameson on her way to 9th in the 2016 ITU Long Course World Champs
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2614e2-45c2-45fc-b205-54e16380a8d0.jpg)
+
+Dutch Junior National team rider Ide Schelling at the 2016 Men's World Road Race Championships finished 7th on these custom DM858 / DMX990 pairing
 
 [0]: http://ridefullgas.com/customer-reviews/
 [1]: http://ridefullgas.com/dm8-series-super-fat-boys-28mm-wide/
