@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-09T14:21:22.723Z'
+datePublished: '2017-02-09T14:32:12.360Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-09T14:21:21.173Z'
+dateModified: '2017-02-09T14:32:11.426Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -71,7 +71,7 @@ That's why I took everything learnt from more than 5 years working and developin
 To my current knowledge, all big-name makers of so-called wide profile road wheels are still coming up with narrower section rims than I've developed for DM8\. And because of this restriction on the tyre right at its base, which defines how the tread will take up its shape across the rim, all such wheels will only therefore deliver optimal real world performance when paired up with genuine width 23mm tyres.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3d85b5-f7db-45eb-8c9b-faad72118a0a.jpg)
 
-## The problem with tyres
+## The problem with tyre sizes
 
 Fit a Schwalbe Pro-One, Conti GP-4000-Sii, or Vittoria Open Corsa Comp in size **23**, and what your bike's really wearing this season are 25mm tyres. That's right - **25mm** wide.
 
@@ -91,7 +91,7 @@ To do this well, it all boils down to how your tyre is served up and delivered t
 And it was with this simple aim of creating the perfect tread profile - smoothly arcing from one edge of the rim to the other, without any requirement for excessive air pressure, nor bulging sidewalls - that the DM8 series was born.
 
 What all of this means to you, out on your bike is _more _speed, _more _grip, _more _comfort, and _more _safety. And all of this with _less _effort.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de7cd24-f283-4e0b-95fb-1e6e42c9b862.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b7c5ee8-687f-42e3-ab61-49f7d4946056.jpg)
 
 DM8s come in three depths and two build variations. From the ride anytime-any place-anywhere Flyweight 38mm DM838s, through the all-rounder Rouleur 45mm DM845s and the flat-out Speedster 58mm DM858ss.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c759a49-7a00-4c3d-b03b-28fba9f8e277.jpg)
