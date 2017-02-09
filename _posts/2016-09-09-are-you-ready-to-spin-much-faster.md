@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-09T14:13:32.834Z'
+datePublished: '2017-02-09T14:21:22.723Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-09T14:13:31.851Z'
+dateModified: '2017-02-09T14:21:21.173Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -97,7 +97,7 @@ DM8s come in three depths and two build variations. From the ride anytime-any pl
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c759a49-7a00-4c3d-b03b-28fba9f8e277.jpg)
 
 Each wheel can be built with standard road hubs for rim brakes and QR axles, fixed gear for track and Red Hook racers, or with the latest centre-lock disc brake hubs shown above, for your go-anywhere, gravel, adventure, CX or any other type of bike built with thru axles.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cc96a4-ac87-48bf-bace-dac2002deae3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe68390-9de0-4e0d-a47c-96a4ae4346ba.jpg)
 
 Custom options for road builds include your choice of hub colour from several options and finishes, including these rather fetching, but very limited run in hand polished bare alloy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/779643ae-62a2-4ce5-b801-c485e467e602.jpg)
