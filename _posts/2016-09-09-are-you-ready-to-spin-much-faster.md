@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-09T14:45:16.870Z'
+datePublished: '2017-02-09T14:48:34.758Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-09T14:45:16.115Z'
+dateModified: '2017-02-09T14:48:33.845Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -120,7 +120,8 @@ But who cares what I think? It's much more fun to take a look at what the riders
 
 ## Are you ready to Spin On These?
 
-I'm ready and waiting to make you the best wheels you've yet to ride - so if you've seen enough already... [Make My Fat Boys Now][1]
+I'm ready and waiting to make you the best wheels you've yet to ride - so if you've seen enough already...
+[Make My Fat Boys Now][1]
 
 To wet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails...
 
@@ -145,7 +146,7 @@ Catherine Jameson
 World Men's Road Race Champ Maurizio Fondriest and friends
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee44936-9797-4ce3-b36f-6d93c4802fe3.jpg)
 
-Catherine Jameson on her way to 9th in the 2016 ITU Long Course World Champs
+Newly crowned 2016 British Ladies triathlon champ Catherine Jameson on her way to 9th in the 2016 ITU Long Course World Champs
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2614e2-45c2-45fc-b205-54e16380a8d0.jpg)
 
 Dutch Junior National team rider Ide Schelling at the 2016 Men's World Road Race Championships finished 7th on these custom DM858 / DMX990 pairing
