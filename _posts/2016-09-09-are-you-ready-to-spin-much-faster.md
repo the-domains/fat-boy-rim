@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-09T14:48:34.758Z'
+datePublished: '2017-02-16T18:34:36.339Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-09T14:48:33.845Z'
+dateModified: '2017-02-16T18:34:33.268Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
