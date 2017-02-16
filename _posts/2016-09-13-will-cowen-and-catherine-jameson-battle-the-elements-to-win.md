@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-04T10:40:46.305Z'
+datePublished: '2017-02-16T18:30:39.871Z'
 sourcePath: >-
   _posts/2016-09-13-will-cowen-and-catherine-jameson-battle-the-elements-to-win.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-02-04T10:40:42.986Z'
+dateModified: '2017-02-16T18:30:36.069Z'
 title: >-
   Catherine Jameson spins these #FatBoys to the 2016 British Mid Distance
   Triathlon crown!
