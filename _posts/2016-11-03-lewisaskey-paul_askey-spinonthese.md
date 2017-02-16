@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-16T18:30:41.714Z'
+datePublished: '2017-02-16T18:42:23.435Z'
 sourcePath: _posts/2016-11-03-lewisaskey-paul_askey-spinonthese.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/davidaskey46/status/792791315742326784'
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-02-16T18:30:36.069Z'
+dateModified: '2017-02-16T18:42:20.382Z'
 title: >-
   Lewis Askey takes the 2016 British Hill Climb Champion’s title on his custom
   superlight DM8 #FatBoys Another awesome ride Lewis! #SpinOnThese #WinOnThese
