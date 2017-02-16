@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-04T10:40:48.048Z'
+datePublished: '2017-02-16T18:30:42.296Z'
 sourcePath: _posts/2016-09-15-catherine-jamesonready-to-take-on-the-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-04T10:40:42.986Z'
+dateModified: '2017-02-16T18:30:36.069Z'
 title: Catherine Jameson gets ready to take on the world!
 publisher:
   name: 'Joel Jameson '
