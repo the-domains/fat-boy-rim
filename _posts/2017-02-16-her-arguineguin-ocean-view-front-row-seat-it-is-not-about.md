@@ -31,14 +31,14 @@ title: >-
   how the bike looks #grancanaria #training #machine #spinonthese
   #ridecannondale #ridelots #outsideisfree #cycling #cyclingpics #cyclingphotos
   #freemotionbikecenter #fabric #holiday #travel #sun
-datePublished: '2017-02-16T18:38:13.061Z'
-dateModified: '2017-02-16T18:37:53.513Z'
-datePublishedOriginal: '2017-02-16T18:38:13.061Z'
+datePublished: '2017-02-16T18:42:22.042Z'
+dateModified: '2017-02-16T18:42:20.382Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-16-her-arguineguin-ocean-view-front-row-seat-it-is-not-about.md
+starred: false
+datePublishedOriginal: '2017-02-16T18:38:13.061Z'
 _type: Photograph
 _context: 'http://schema.org'
 
