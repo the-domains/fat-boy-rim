@@ -31,8 +31,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/SpinOnThese/status/786877282241671168'
-datePublished: '2017-02-16T18:42:24.829Z'
-dateModified: '2017-02-16T18:42:20.382Z'
+datePublished: '2017-02-20T15:24:03.855Z'
+dateModified: '2017-02-20T15:23:46.432Z'
 title: >-
   Dutch national team rider Ide Schelling at the Worlds road race Doha 2016,
   spins up his custom DM8 #FatBoys animating the entire race from gun to flag &
