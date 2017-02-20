@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQtw2_-FkO3/?taken-by=jeremysantucci'
 title: "Dine and dash \uD83D\uDEB4\uD83C\uDFFC\uD83D\uDE80 with @rdboliter"
-datePublished: '2017-02-20T17:03:53.207Z'
-dateModified: '2017-02-20T17:03:49.785Z'
+datePublished: '2017-02-20T18:40:33.635Z'
+dateModified: '2017-02-20T18:40:26.815Z'
 description: ''
 via: {}
 inFeed: true
