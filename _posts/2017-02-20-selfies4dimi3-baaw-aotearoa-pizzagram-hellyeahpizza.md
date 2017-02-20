@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://instagram.com/p/BQsHWgXlVGx/'
 title: '#selfies4dimi3 #baaw #aotearoa #pizzagram #hellyeahpizza'
-datePublished: '2017-02-20T18:45:12.951Z'
-dateModified: '2017-02-20T18:44:20.974Z'
-datePublishedOriginal: '2017-02-20T18:45:12.951Z'
+datePublished: '2017-02-20T18:48:02.485Z'
+dateModified: '2017-02-20T18:47:59.685Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-20-selfies4dimi3-baaw-aotearoa-pizzagram-hellyeahpizza.md
+starred: false
+datePublishedOriginal: '2017-02-20T18:45:12.951Z'
 _type: Photograph
 _context: 'http://schema.org'
 
