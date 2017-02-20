@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-16T18:42:22.556Z'
+datePublished: '2017-02-20T15:24:03.188Z'
 sourcePath: _posts/2016-09-14-cool-car-cooler-bike-fatboys.md
 inFeed: true
 hasPage: true
@@ -10,7 +10,7 @@ author:
     url: 'https://www.instagram.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-02-16T18:42:20.382Z'
+dateModified: '2017-02-20T15:23:46.432Z'
 title: 'Cool car. Cooler bike! Le Mans Legend TomK rides the #FatBoys'
 app_links:
   - url: 'instagram://media?id=1328262207011786104'
