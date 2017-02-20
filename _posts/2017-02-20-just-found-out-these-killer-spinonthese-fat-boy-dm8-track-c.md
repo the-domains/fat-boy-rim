@@ -4,8 +4,9 @@ author:
     url: 'http://twitter.com/_julietelliott'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/79cb340e67db9399b947eca9f3cee0619c116586.jpg
+      original: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0f3fa17f52015dd9955fae4ee121905e/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC5IBFiCWQAAE4vR.jpg%3Alarge
-      original: 'https://pbs.twimg.com/media/C5IBFiCWQAAE4vR.jpg:large'
       width: 640
       height: 640
       colors:
@@ -25,11 +26,7 @@ author:
           - 22
           - 36
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+publisher: {}
 keywords:
   - instantly
   - tweet
@@ -41,9 +38,7 @@ keywords:
   - vans_europe
   - tap
   - w_t_b
-description: >-
-  Just found out these killer @SpinOnThese Fat Boy DM8 track clinchers are on
-  their way to me. Tubeless ready too. Excited!!
+description: ''
 inLanguage: en
 app_links:
   - path: >-
@@ -52,17 +47,19 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/_julietelliott/status/833730142870634500'
-datePublished: '2017-02-20T18:24:46.803Z'
-dateModified: '2017-02-20T18:23:35.086Z'
-datePublishedOriginal: '2017-02-20T18:24:46.803Z'
+datePublished: '2017-02-20T18:31:15.645Z'
+dateModified: '2017-02-20T18:31:15.079Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-20-just-found-out-these-killer-spinonthese-fat-boy-dm8-track-c.md
+starred: false
+datePublishedOriginal: '2017-02-20T18:24:46.803Z'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7152cd3b-5f16-48ea-a03e-11bd3fea200e.jpg)
+
 > Just found out these killer @SpinOnThese Fat Boy DM8 track clinchers are on their way to me. Tubeless ready too. Excited!!
