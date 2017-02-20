@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-16T18:42:25.395Z'
+datePublished: '2017-02-20T15:24:05.266Z'
 sourcePath: >-
   _posts/2016-09-14-cx-season-is-here-lewis-and-younger-bro-ben-are-back-and-taki.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
     url: 'https://www.instagram.com/lewis_askey'
     avatar: {}
 via: {}
-dateModified: '2017-02-16T18:42:20.382Z'
+dateModified: '2017-02-20T15:23:46.432Z'
 title: >-
   #CX season is back and Lewis Askey & younger bro’ Ben aren’t taking any
   prisoners! #SpinOnThese all the way to the titles fellas!
