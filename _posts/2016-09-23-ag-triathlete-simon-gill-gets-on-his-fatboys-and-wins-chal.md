@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-02-20T18:32:01.191Z'
+datePublished: '2017-02-20T18:40:37.334Z'
 sourcePath: >-
   _posts/2016-09-23-ag-triathlete-simon-gill-gets-on-his-fatboys-and-wins-chal.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-20T18:31:53.966Z'
+dateModified: '2017-02-20T18:40:26.815Z'
 title: >-
   Age Group Challenge Gran Canaria winner Simon Gill: #SpinOnThese #WinOnThese
   #FatBoys 
