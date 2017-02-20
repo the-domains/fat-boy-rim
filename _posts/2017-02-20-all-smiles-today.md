@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://instagram.com/p/BQvkcP5gcTR/'
 title: "All smiles today \uD83D\uDE01\uD83D\uDE0E\uD83D\uDE01"
-datePublished: '2017-02-20T18:22:55.290Z'
-dateModified: '2017-02-20T18:22:46.739Z'
-datePublishedOriginal: '2017-02-20T18:22:55.290Z'
+datePublished: '2017-02-20T18:31:59.232Z'
+dateModified: '2017-02-20T18:31:53.966Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-20-all-smiles-today.md
+starred: false
+datePublishedOriginal: '2017-02-20T18:22:55.290Z'
 _type: Photograph
 _context: 'http://schema.org'
 
