@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-20T16:27:40.213Z'
+datePublished: '2017-02-20T17:02:49.485Z'
 sourcePath: >-
   _posts/2016-09-14-dani-christmas-spins-her-fatboys-up-the-muur-at-the-2016-lo.md
 inFeed: true
@@ -43,7 +43,7 @@ author:
           - 209
           - 214
 via: {}
-dateModified: '2017-02-20T16:27:35.415Z'
+dateModified: '2017-02-20T17:02:48.572Z'
 title: 'Dani Christmas spins her #FatBoys up the Muur at the 2016 Lotto Belgium Tour'
 app_links:
   - path: >-
@@ -52,7 +52,7 @@ app_links:
     namespace: google
     type: android
 publisher: {}
-description: '@Dani_Christmas ... But this one is for you. Enjoy !'
+description: ''
 inLanguage: en
 starred: false
 datePublishedOriginal: '2016-10-07T16:01:30.423Z'
@@ -61,4 +61,4 @@ _type: Photograph
 
 ---
 # Dani Christmas spins her \#FatBoys up the Muur at the 2016 Lotto Belgium Tour
-![@Dani_Christmas ... But this one is for you. Enjoy !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d91fb314ddf84c9e072afa05b1f1caa7569608ff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbea3ae2-312a-4646-b28d-e2a539421c75.jpg)
