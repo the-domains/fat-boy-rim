@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQtw2_-FkO3/?taken-by=jeremysantucci'
 title: "Dine and dash \uD83D\uDEB4\uD83C\uDFFC\uD83D\uDE80 with @rdboliter"
-datePublished: '2017-02-20T15:22:34.821Z'
-dateModified: '2017-02-20T15:21:49.993Z'
-datePublishedOriginal: '2017-02-20T15:22:34.821Z'
+datePublished: '2017-02-20T15:23:57.576Z'
+dateModified: '2017-02-20T15:23:46.432Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-20-dine-and-dash-with-rdboliter.md
+starred: false
+datePublishedOriginal: '2017-02-20T15:22:34.821Z'
 _type: Photograph
 _context: 'http://schema.org'
 
