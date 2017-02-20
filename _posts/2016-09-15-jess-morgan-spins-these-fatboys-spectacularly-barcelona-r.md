@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-20T16:27:40.362Z'
+datePublished: '2017-02-20T18:31:59.277Z'
 sourcePath: _posts/2016-09-15-jess-morgan-spins-these-fatboys-spectacularly-barcelona-r.md
 inFeed: true
 hasPage: true
@@ -10,7 +10,7 @@ author:
     url: 'https://www.instagram.com/scoot__'
     avatar: {}
 via: {}
-dateModified: '2017-02-20T16:27:35.415Z'
+dateModified: '2017-02-20T18:31:53.966Z'
 title: 'Jess Morgan spins these #FatBoys spectacularly! Barcelona #RedHookCrit'
 app_links:
   - url: 'instagram://media?id=1329973275308907634'
