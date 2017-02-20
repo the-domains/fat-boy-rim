@@ -6,7 +6,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da6d22c5dc7f0d0e310ff140dfa7b6cc48f0f38.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59dbff99927189bb75519eab029d74fd/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F796027052608589824%2FeM6dWA37_400x400.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da6d22c5dc7f0d0e310ff140dfa7b6cc48f0f38.jpg
       width: 400
       height: 400
       colors:
@@ -26,11 +26,7 @@ author:
           - 134
           - 80
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+publisher: {}
 keywords:
   - instantly
   - tweet
@@ -42,9 +38,7 @@ keywords:
   - spinonthese
   - team9bar
   - xudfy1iwyi
-description: >-
-  Fun training race with the men today. Felt great to be in the moves mixing it
-  with the ex pros. Can't wait to put the race wheels in nxt wk!
+description: ''
 inLanguage: en
 app_links:
   - path: >-
@@ -53,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-20T16:27:39.301Z'
-dateModified: '2017-02-20T16:27:35.415Z'
+datePublished: '2017-02-20T16:37:37.333Z'
+dateModified: '2017-02-20T16:37:36.785Z'
 title: ''
 via: {}
 inFeed: true
@@ -66,4 +60,6 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87305544-9e67-4199-83e4-3e749226fd2b.jpg)
+
 > Fun training race with the men today. Felt great to be in the moves mixing it with the ex pros. Can't wait to put the race wheels in nxt wk!
