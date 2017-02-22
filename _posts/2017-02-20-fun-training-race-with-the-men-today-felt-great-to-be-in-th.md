@@ -47,11 +47,12 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-22T19:47:38.641Z'
-dateModified: '2017-02-22T19:47:37.733Z'
+datePublished: '2017-02-22T19:51:41.595Z'
+dateModified: '2017-02-22T19:51:40.970Z'
 title: >-
-  Dani mixing it with the boys! Her personal recipe for success this past four
-  euro road race seasons: Koppenberg Fat Boys & custom Speed Metal
+  Dani mixing it with the fast boys! Her personal recipe for success this past
+  four euro road race seasons? A custom gourmet Speed Metal bike with an extra
+  dash of Koppenberg Fat Boy
 via: {}
 inFeed: true
 sourcePath: >-
@@ -62,7 +63,7 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-# Dani mixing it with the boys! Her personal recipe for success this past four euro road race seasons: Koppenberg Fat Boys & custom Speed Metal
+# Dani mixing it with the fast boys! Her personal recipe for success this past four euro road race seasons? A custom gourmet Speed Metal bike with an extra dash of Koppenberg Fat Boy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87305544-9e67-4199-83e4-3e749226fd2b.jpg)
 
 > Fun training race with the men today. Felt great to be in the moves mixing it with the ex pros. Can't wait to put the race wheels in nxt wk!
