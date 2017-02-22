@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQgjhzDAn3k/'
 title: "First race of the year complete: legs felt good but got boxed in at the finish. It was amazing to race with 20 women though, what a great start to the year \uD83D\uDCAA #nltcbmbc #spinonthese #womenscycling #cyclelikeagirl #bellbikehelmets #otesports"
-datePublished: '2017-02-22T20:02:20.646Z'
-dateModified: '2017-02-22T20:02:18.575Z'
+datePublished: '2017-02-22T20:02:48.369Z'
+dateModified: '2017-02-22T20:02:40.282Z'
 description: ''
 via: {}
 inFeed: true
