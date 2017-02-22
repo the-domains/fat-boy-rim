@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-22T19:45:32.312Z'
+datePublished: '2017-02-22T19:58:50.305Z'
 sourcePath: _posts/2016-10-30-daves-spitfire-iii.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-22T19:45:22.456Z'
+dateModified: '2017-02-22T19:58:33.392Z'
 title: 'Dave’s classic titanium Spitfire spins on these DM838 #FatBoys'
 publisher: {}
 description: ''
