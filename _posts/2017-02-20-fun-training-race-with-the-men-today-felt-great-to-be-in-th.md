@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-22T19:45:26.722Z'
-dateModified: '2017-02-22T19:45:22.456Z'
+datePublished: '2017-02-22T19:47:38.641Z'
+dateModified: '2017-02-22T19:47:37.733Z'
 title: >-
   Dani mixing it with the boys! Her personal recipe for success this past four
   euro road race seasons: Koppenberg Fat Boys & custom Speed Metal
