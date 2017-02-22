@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   http://road.cc/content/buyers-guide/217881-20-best-2017-road-bike-wheels-%E2%80%94-reduce-bike-weight-or-get-aero-gains-new
 title: 'The #FatBoys make road.cc''s top wheel list for 4th consecutive year '
-datePublished: '2017-02-22T20:01:47.328Z'
-dateModified: '2017-02-22T20:01:42.280Z'
+datePublished: '2017-02-22T20:02:19.716Z'
+dateModified: '2017-02-22T20:02:18.575Z'
 via: {}
 inFeed: true
 sourcePath: >-
