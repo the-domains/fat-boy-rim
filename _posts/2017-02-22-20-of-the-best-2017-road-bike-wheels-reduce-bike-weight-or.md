@@ -30,16 +30,16 @@ isBasedOnUrl: >-
 title: >-
   20 of the best 2017 road bike wheels - reduce bike weight or get aero gains
   with new hoops
-datePublished: '2017-02-22T09:38:44.658Z'
-dateModified: '2017-02-22T09:37:20.053Z'
-datePublishedOriginal: '2017-02-22T09:38:44.658Z'
+datePublished: '2017-02-22T09:41:00.840Z'
+dateModified: '2017-02-22T09:41:00.201Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-22-20-of-the-best-2017-road-bike-wheels-reduce-bike-weight-or.md
+starred: false
+datePublishedOriginal: '2017-02-22T09:38:44.658Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>20 of the best 2017 road bike wheels - reduce bike weight or get aero gains with new hoops</h1><p>One of the most popular upgrades, better wheels ( and tyres) can dramatically improve your bike's ride. Stock wheels are often heavy and of mediocre quality - upgrading can reduce weight and improve reliability. If you want to go faster, choose wheels with deep-section rims; aerodynamics is far more important than weight.</p><img src="http://road.cc/sites/default/files/images/Superstar%20Components%20Pave%2028%20wheelset/Superstar%20Components%20Pave%2028%20wheelset%20-%20rear%20hub%202.jpg" /></article>
+<article style=""><h1>20 of the best 2017 road bike wheels - reduce bike weight or get aero gains with new hoops</h1><p>One of the most popular upgrades, better wheels ( and tyres) can dramatically improve your bike's ride. Stock wheels are often heavy and of mediocre quality - upgrading can reduce weight and improve reliability. If you want to go faster, choose wheels with deep-section rims; aerodynamics is far more important than weight.</p></article>
