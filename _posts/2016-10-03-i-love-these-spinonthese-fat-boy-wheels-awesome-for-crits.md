@@ -28,8 +28,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BLED7rNAsEH/?taken-by=scoot__'
 title: "I love these @spinonthese Fat Boy wheels! Awesome for crits but also super fun for cruising around town \uD83D\uDC4F\uD83C\uDFFC #spinonthese #nltcbmbc #redhookcrit #rhcm7 #cinelli #hubvelo #mashsf"
-datePublished: '2017-02-22T19:58:37.817Z'
-dateModified: '2017-02-22T19:58:33.392Z'
+datePublished: '2017-02-22T19:59:18.810Z'
+dateModified: '2017-02-22T19:59:00.110Z'
 description: ''
 via: {}
 inFeed: true
