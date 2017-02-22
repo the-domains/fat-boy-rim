@@ -29,13 +29,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.portsmouth.co.uk/sport/cycling/a-dream-realised-through-the-brilliance-of-spin-1-7186961
 title: A dream realised through the brilliance of Spin
-datePublished: '2017-02-22T09:34:50.536Z'
-dateModified: '2017-02-22T09:34:47.192Z'
-datePublishedOriginal: '2017-02-22T09:34:50.536Z'
+datePublished: '2017-02-22T09:45:10.913Z'
+dateModified: '2017-02-22T09:44:56.409Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-22-a-dream-realised-through-the-brilliance-of-spin.md
+starred: false
+datePublishedOriginal: '2017-02-22T09:34:50.536Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
