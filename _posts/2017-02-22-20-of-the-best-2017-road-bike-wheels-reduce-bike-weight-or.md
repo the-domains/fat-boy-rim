@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   http://road.cc/content/buyers-guide/217881-20-best-2017-road-bike-wheels-%E2%80%94-reduce-bike-weight-or-get-aero-gains-new
 title: ''
-datePublished: '2017-02-22T09:43:08.946Z'
-dateModified: '2017-02-22T09:43:08.386Z'
+datePublished: '2017-02-22T09:45:11.646Z'
+dateModified: '2017-02-22T09:44:56.409Z'
 via: {}
 inFeed: true
 sourcePath: >-
