@@ -29,15 +29,15 @@ isBasedOnUrl: 'https://instagram.com/p/BQ0462QACLJ/'
 title: >-
   YES! Our team bikes are here! Thank you Guerciotti for these beautiful
   machines and Spin On These for the awesome flashy wheels.
-datePublished: '2017-02-22T19:58:40.558Z'
-dateModified: '2017-02-22T19:57:48.373Z'
-datePublishedOriginal: '2017-02-22T19:58:40.558Z'
+datePublished: '2017-02-22T20:01:46.022Z'
+dateModified: '2017-02-22T20:01:42.280Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-22-yes-our-team-bikes-are-here-thank-you-guerciotti-for-these.md
+starred: false
+datePublishedOriginal: '2017-02-22T19:58:40.558Z'
 _type: Photograph
 _context: 'http://schema.org'
 
