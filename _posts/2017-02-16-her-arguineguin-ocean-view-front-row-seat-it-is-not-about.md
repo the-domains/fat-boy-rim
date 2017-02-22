@@ -31,8 +31,8 @@ title: >-
   how the bike looks #grancanaria #training #machine #spinonthese
   #ridecannondale #ridelots #outsideisfree #cycling #cyclingpics #cyclingphotos
   #freemotionbikecenter #fabric #holiday #travel #sun
-datePublished: '2017-02-20T18:50:04.279Z'
-dateModified: '2017-02-20T18:50:02.583Z'
+datePublished: '2017-02-22T09:45:06.357Z'
+dateModified: '2017-02-22T09:44:56.409Z'
 description: ''
 via: {}
 inFeed: true
