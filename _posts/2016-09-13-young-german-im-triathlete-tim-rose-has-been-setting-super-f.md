@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-22T09:48:14.167Z'
+datePublished: '2017-02-22T19:45:29.064Z'
 sourcePath: >-
   _posts/2016-09-13-young-german-im-triathlete-tim-rose-has-been-setting-super-f.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
     url: 'https://www.instagram.com/tim_rose97'
     avatar: {}
 via: {}
-dateModified: '2017-02-22T09:48:03.395Z'
+dateModified: '2017-02-22T19:45:22.456Z'
 title: >-
   Long course triathlete Tim Rose has been setting super fast bike splits all
   season spinning these Koppenberg #FatBoys
