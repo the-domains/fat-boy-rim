@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-22T19:45:31.395Z'
+datePublished: '2017-02-22T19:58:49.451Z'
 sourcePath: _posts/2016-10-14-awesome-ride-dude-ideschelling-worlds-ucidoha2016-spino.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/SpinOnThese/status/786921362602549249'
@@ -20,7 +20,7 @@ author:
     url: 'http://twitter.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-02-22T19:45:22.456Z'
+dateModified: '2017-02-22T19:58:33.392Z'
 title: Awesome ride dude!
 app_links:
   - path: >-
