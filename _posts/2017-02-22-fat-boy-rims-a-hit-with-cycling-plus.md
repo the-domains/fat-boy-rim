@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ridefullgas.com/news/fat-boy-rims-a-hit-with-cycling-plus/'
 title: Fat Boy Rim's a hit with Cycling Plus
-datePublished: '2017-02-23T17:27:36.953Z'
-dateModified: '2017-02-23T17:27:22.693Z'
+datePublished: '2017-02-23T23:24:18.340Z'
+dateModified: '2017-02-23T23:24:06.520Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-22-fat-boy-rims-a-hit-with-cycling-plus.md
