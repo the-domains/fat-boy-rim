@@ -2,8 +2,8 @@
 title: >-
   Ide Schelling wins inaugural Amstel Gold Junior Classic. Not bad for a #FatBoy
   …but I’m talking wheels!
-datePublished: '2017-02-23T12:21:55.051Z'
-dateModified: '2017-02-23T12:21:42.399Z'
+datePublished: '2017-02-23T17:27:37.586Z'
+dateModified: '2017-02-23T17:27:22.693Z'
 publisher: {}
 author:
   - name: ideschelling
