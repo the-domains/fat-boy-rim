@@ -32,8 +32,8 @@ title: >-
   grip and stability. I'm running them with tubes and @wildernesstrailbikes
   Freedom's Thickslick tyres for now, but as they're tubeless compatible too I'm
   gonna switch them up later and try 'em tubeless too. #vansgirls #spinonthese
-datePublished: '2017-02-23T17:27:31.643Z'
-dateModified: '2017-02-23T17:27:22.693Z'
+datePublished: '2017-02-23T17:28:18.832Z'
+dateModified: '2017-02-23T17:28:14.110Z'
 description: ''
 via: {}
 inFeed: true
