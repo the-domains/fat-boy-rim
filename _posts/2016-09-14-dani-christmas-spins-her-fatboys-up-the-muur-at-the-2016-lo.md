@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-23T12:21:52.496Z'
+datePublished: '2017-02-23T17:27:34.521Z'
 sourcePath: >-
   _posts/2016-09-14-dani-christmas-spins-her-fatboys-up-the-muur-at-the-2016-lo.md
 inFeed: true
@@ -43,7 +43,7 @@ author:
           - 209
           - 214
 via: {}
-dateModified: '2017-02-23T12:21:42.399Z'
+dateModified: '2017-02-23T17:27:22.693Z'
 title: 'Dani Christmas spins her #FatBoys up the Muur at the 2016 Lotto Belgium Tour'
 app_links:
   - path: >-
