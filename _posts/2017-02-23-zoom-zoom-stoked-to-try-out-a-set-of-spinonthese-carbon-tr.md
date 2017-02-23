@@ -32,15 +32,15 @@ title: >-
   grip and stability. I'm running them with tubes and @wildernesstrailbikes
   Freedom's Thickslick tyres for now, but as they're tubeless compatible too I'm
   gonna switch them up later and try 'em tubeless too. #vansgirls #spinonthese
-datePublished: '2017-02-23T17:26:25.631Z'
-dateModified: '2017-02-23T17:25:27.989Z'
-datePublishedOriginal: '2017-02-23T17:26:25.631Z'
+datePublished: '2017-02-23T17:27:31.643Z'
+dateModified: '2017-02-23T17:27:22.693Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-23-zoom-zoom-stoked-to-try-out-a-set-of-spinonthese-carbon-tr.md
+starred: false
+datePublishedOriginal: '2017-02-23T17:26:25.631Z'
 _type: Photograph
 _context: 'http://schema.org'
 
