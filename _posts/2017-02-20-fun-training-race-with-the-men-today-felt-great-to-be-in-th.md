@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-23T17:27:33.817Z'
-dateModified: '2017-02-23T17:27:22.693Z'
+datePublished: '2017-02-23T23:24:15.381Z'
+dateModified: '2017-02-23T23:24:06.520Z'
 title: >-
   Dani mixing it with the fast boys! Her personal recipe for success this past
   four euro road race seasons? A custom gourmet Speed Metal bike with an extra
