@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-23T17:27:37.997Z'
+datePublished: '2017-02-23T23:24:18.969Z'
 sourcePath: _posts/2016-09-09-catherine-jameson-races-spinonthese.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-23T17:27:22.693Z'
+dateModified: '2017-02-23T23:24:06.520Z'
 title: 'Catherine Jameson races #SpinOnThese and Wins On These …quite a lot'
 publisher:
   name: James Mitchell
