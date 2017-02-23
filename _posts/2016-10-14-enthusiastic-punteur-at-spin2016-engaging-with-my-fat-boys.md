@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-22T20:01:51.907Z'
+datePublished: '2017-02-23T12:21:53.560Z'
 sourcePath: >-
   _posts/2016-10-14-enthusiastic-punteur-at-spin2016-engaging-with-my-fat-boys.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
     url: 'https://www.instagram.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-02-22T20:01:42.280Z'
+dateModified: '2017-02-23T12:21:42.399Z'
 title: '#SpinOnThese and you’ll love your bike as much as Neil!'
 app_links:
   - url: 'instagram://media?id=1254452825975167235'
