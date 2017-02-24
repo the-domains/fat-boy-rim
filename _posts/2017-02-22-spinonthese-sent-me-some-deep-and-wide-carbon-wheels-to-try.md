@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BQ0kHWlByMT/?taken-by=davidjarthur'
 title: >-
   @spinonthese sent me some deep and wide carbon wheels to try on the Open UP.
   I've teamed them with new Hutchinson Overide gravel tyres. What do you think?
-datePublished: '2017-02-23T17:28:19.720Z'
-dateModified: '2017-02-23T17:28:14.110Z'
+datePublished: '2017-02-24T12:30:18.558Z'
+dateModified: '2017-02-24T12:30:18.033Z'
 description: ''
 via: {}
 inFeed: true
