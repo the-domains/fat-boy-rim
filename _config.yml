@@ -28,7 +28,7 @@ navigation:
   - name: About My Wheels
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
-  - name: 'Custom Bikes: Custom Titanium & Carbon'
+  - name: Custom Titanium & Carbon Frames
     url: 'http://speedmetal.bike'
     type: external
 favicon: >-
