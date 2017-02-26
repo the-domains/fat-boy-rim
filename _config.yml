@@ -20,12 +20,12 @@ author:
   url: 'http://ridefullgas.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0019d9b1-bd7d-46ae-8db5-f2a05cf7cd56.png
-name: Spin On These!
+name: '#SpinOnThese #WinOnThese'
 navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
-  - name: DM8 Wheels
+  - name: About My Wheels
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
   - name: 'Speed Metal Custom: Titanium Bikes'
