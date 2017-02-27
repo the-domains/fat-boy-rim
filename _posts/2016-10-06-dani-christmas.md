@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-23T23:24:18.252Z'
+datePublished: '2017-02-27T14:14:09.714Z'
 sourcePath: _posts/2016-10-06-dani-christmas.md
 inFeed: true
 hasPage: true
@@ -42,7 +42,7 @@ author:
           - 122
           - 92
 via: {}
-dateModified: '2017-02-23T23:24:06.520Z'
+dateModified: '2017-02-27T14:14:06.761Z'
 title: 'Dani Christmas: Racing Ventoux & Other Challenges!'
 app_links:
   - path: >-
