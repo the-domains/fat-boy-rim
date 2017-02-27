@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQ1JxpzBDL1/?taken-by=louise_laker'
 title: "New bike day for hubby! \uD83D\uDE0D @rocacorbaracing @eat_sleep_cycle @spinonthese @lafabricagirona #coffee #catalunya #girona"
-datePublished: '2017-02-27T22:10:54.676Z'
-dateModified: '2017-02-27T22:10:46.721Z'
+datePublished: '2017-02-27T22:19:57.375Z'
+dateModified: '2017-02-27T22:19:56.185Z'
 description: ''
 via: {}
 inFeed: true
