@@ -5,17 +5,14 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
+  name: James Mitchell
 keywords: []
-description: "First glimpse of a recent photoshoot for Zone3 ... watch this space to reveal their amazing tri/cycling/swim wear for 2017!! \uD83D\uDE32\uD83D\uDE0D Spending the day using..."
+description: ''
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/lillymcnabbtriathlete/posts/1132635376846795'
-datePublished: '2017-02-27T22:10:54.719Z'
-dateModified: '2017-02-27T22:10:46.721Z'
+datePublished: '2017-02-27T22:12:37.650Z'
+dateModified: '2017-02-27T22:12:36.955Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-first-glimpse-of-a-recent-photoshoot-for-zone3-watch-thi.md
@@ -25,4 +22,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> First glimpse of a recent photoshoot for Zone3 ... watch this space to reveal their amazing tri/cycling/swim wear for 2017!!  Spending the day using...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76968bed-f0a4-47bf-bb96-9e563e99caab.jpg)
+
+> First glimpse of a recent photoshoot for Zone3 ... watch this space to reveal their amazing tri/cycling/swim wear for 2017!!  Spending the day using Spin On These wheels not only was super comfortable but added the finishing touches to my speed machine Argon18 España 
