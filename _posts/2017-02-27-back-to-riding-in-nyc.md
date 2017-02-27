@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQ_aZZrgvF7/?taken-by=lewis.tobias'
 title: Back to riding in NYC
-datePublished: '2017-02-27T14:13:27.063Z'
-dateModified: '2017-02-27T14:13:16.691Z'
-datePublishedOriginal: '2017-02-27T14:13:27.063Z'
+datePublished: '2017-02-27T14:14:08.465Z'
+dateModified: '2017-02-27T14:14:06.761Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-27-back-to-riding-in-nyc.md
+starred: false
+datePublishedOriginal: '2017-02-27T14:13:27.063Z'
 _type: Photograph
 _context: 'http://schema.org'
 
