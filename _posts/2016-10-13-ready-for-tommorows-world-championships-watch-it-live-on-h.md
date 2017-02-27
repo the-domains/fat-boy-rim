@@ -3,7 +3,7 @@ title: >-
   Ready for tommorow's World Championships! Watch it live on
   https://m.youtube.com/watch?v=m5xxvz2trZE #SpinOnThese #ucidoha2016 #fatboys
   #doha #bugatti #hot #baaw #roadcycling #roadbike
-dateModified: '2017-02-27T14:14:06.761Z'
+dateModified: '2017-02-27T22:10:46.721Z'
 publisher: {}
 author:
   - name: ideschelling
@@ -13,7 +13,7 @@ inFeed: true
 description: ''
 via: {}
 isBasedOnUrl: 'https://www.instagram.com/p/BLgz45Cjo8n/'
-datePublished: '2017-02-27T14:14:08.547Z'
+datePublished: '2017-02-27T22:10:54.889Z'
 sourcePath: >-
   _posts/2016-10-13-ready-for-tommorows-world-championships-watch-it-live-on-h.md
 starred: false
