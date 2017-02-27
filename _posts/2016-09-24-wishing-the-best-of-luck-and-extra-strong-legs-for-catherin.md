@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-23T23:24:15.149Z'
+datePublished: '2017-02-27T14:14:09.033Z'
 sourcePath: >-
   _posts/2016-09-24-wishing-the-best-of-luck-and-extra-strong-legs-for-catherin.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
     url: 'https://www.instagram.com/spinonthese'
     avatar: {}
 via: {}
-dateModified: '2017-02-23T23:24:06.520Z'
+dateModified: '2017-02-27T14:14:06.761Z'
 title: >-
   Catherine Jameson 9th at the ITU long course world triathlon championships
   …with a little help from her #SpinOnThese #FatBoys
