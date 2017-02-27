@@ -14,13 +14,13 @@ description: "First glimpse of a recent photoshoot for Zone3 ... watch this spac
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/lillymcnabbtriathlete/posts/1132635376846795'
-datePublished: '2017-02-27T22:08:44.203Z'
-dateModified: '2017-02-27T22:07:53.528Z'
-datePublishedOriginal: '2017-02-27T22:08:44.203Z'
+datePublished: '2017-02-27T22:10:54.719Z'
+dateModified: '2017-02-27T22:10:46.721Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-27-first-glimpse-of-a-recent-photoshoot-for-zone3-watch-thi.md
+starred: false
+datePublishedOriginal: '2017-02-27T22:08:44.203Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
