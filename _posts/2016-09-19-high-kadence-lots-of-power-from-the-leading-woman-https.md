@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-27T22:10:54.809Z'
+datePublished: '2017-02-28T10:32:53.776Z'
 sourcePath: _posts/2016-09-19-high-kadence-lots-of-power-from-the-leading-woman-https.md
 inFeed: true
 hasPage: true
@@ -34,7 +34,7 @@ author:
           - 1
           - 1
 via: {}
-dateModified: '2017-02-27T22:10:46.721Z'
+dateModified: '2017-02-28T10:32:51.454Z'
 title: ''
 app_links:
   - path: >-
