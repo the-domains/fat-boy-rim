@@ -11,8 +11,8 @@ description: ''
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/lillymcnabbtriathlete/posts/1132635376846795'
-datePublished: '2017-02-27T22:19:16.637Z'
-dateModified: '2017-02-27T22:19:16.051Z'
+datePublished: '2017-02-28T10:32:53.729Z'
+dateModified: '2017-02-28T10:32:51.454Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-first-glimpse-of-a-recent-photoshoot-for-zone3-watch-thi.md
