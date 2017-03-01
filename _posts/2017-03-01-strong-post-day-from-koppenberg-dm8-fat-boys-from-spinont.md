@@ -29,14 +29,14 @@ isBasedOnUrl: 'https://instagram.com/p/BRGotEfg1dx/'
 title: >-
   Strong post day from - Koppenberg DM8 Fat Boys from @spinonthese #spinonthese
   / No excuses to get racing now!
-datePublished: '2017-03-01T17:22:39.396Z'
-dateModified: '2017-03-01T17:22:32.620Z'
-datePublishedOriginal: '2017-03-01T17:22:39.396Z'
+datePublished: '2017-03-01T17:41:18.163Z'
+dateModified: '2017-03-01T17:41:16.605Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-01-strong-post-day-from-koppenberg-dm8-fat-boys-from-spinont.md
+starred: false
+datePublishedOriginal: '2017-03-01T17:22:39.396Z'
 _type: Photograph
 _context: 'http://schema.org'
 
