@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-28T10:32:53.777Z'
+datePublished: '2017-03-01T13:47:49.828Z'
 sourcePath: _posts/2016-09-15-catherine-jamesonready-to-take-on-the-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-28T10:32:51.454Z'
-title: Catherine Jameson gets ready to take on the world!
+dateModified: '2017-03-01T13:47:49.281Z'
+title: Catherine Jameson is always ready to take on the world!
 publisher:
   name: 'Joel Jameson '
   url: 'https://www.instagram.com/jamesonphotography1/'
@@ -16,7 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Catherine Jameson gets ready to take on the world!
+# Catherine Jameson is always ready to take on the world!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fed9a0675af4226c02d75f110fcbeae9e48dd33.jpg)
 
 Final prep for the ITU World Long Distance Championships
