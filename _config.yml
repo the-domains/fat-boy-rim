@@ -34,7 +34,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
 title: Spin On These Koppenberg Fat Boys
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a62c35e-b1ae-4d24-8e8a-039198fa35df.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a62c35e-b1ae-4d24-8e8a-039198fa35df.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: "Effortless speed. Gut wrenching grip. Incredible comfort. Super wide. Koppenberg wheels from Spin Industries are hand built with passion and precision. Every one made here in my Speed Shop in the heart of England. And built with just one specific rider in mind. You!\_"
 purpose:
   - type: external
