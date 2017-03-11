@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-27T22:25:11.170Z'
+datePublished: '2017-03-11T13:08:36.295Z'
 sourcePath: _posts/2016-09-09-are-you-ready-to-spin-much-faster.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-27T22:25:10.865Z'
+dateModified: '2017-03-11T13:08:35.131Z'
 title: 'Hey! #FatBoy!'
 publisher:
   name: The Spin Meister
@@ -25,6 +25,7 @@ _type: Article
 
 # Whether you're a flyweight climber, powerful puncheur, Strava segment shredder or Red Hook racer, you'll spin so much faster on these Fat Boy Rims
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adac849e-4fb5-44cd-9e24-8bad145d13ac.jpg)
+[See The Range][0]
 
 I've engineered the Koppenberg DM8 Super Fat Boys to be aero, light, stiff, robust, and durable. You know, all that stuff that every high-performance wheel brand lays claim to - some more _truthfully_, and many more _optimistically _than others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac32ca9d-a758-431a-bfd4-98b95200dcc6.jpg)
@@ -114,14 +115,14 @@ Priced from £990 - £1099 a pair, they won't leave your wallet _entirely _empty
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e47ed5a-9d1a-4de1-a470-edc8e5797b46.jpg)
 
 The DM8 series wheels represent everything I've learnt about engineering, making and riding great wheels, so naturally I love 'em. And I'm convinced you will too.
-[Fat Boys reviewed][0]
+[Fat Boys reviewed][1]
 
 But who cares what I think? It's much more fun to take a look at what the riders who're already spinning their own DM8s have to say by hitting this button above.
 
 ## Are you ready to Spin On These?
 
 I'm ready and waiting to make you the best wheels you've yet to ride - so if you've seen enough already...
-[Make My Fat Boys Now][1]
+[Make My Fat Boys Now][2]
 
 To wet your appetite for a new life of effortless speed, demon handling and sublime comfort out on your favourite road or trails...
 
@@ -151,5 +152,6 @@ Newly crowned 2016 British Ladies triathlon champ Catherine Jameson on her way t
 
 Dutch Junior National team rider Ide Schelling at the 2016 Men's World Road Race Championships finished 7th on these custom DM858 / DMX990 pairing
 
-[0]: http://ridefullgas.com/customer-reviews/
-[1]: http://ridefullgas.com/dm8-series-super-fat-boys-28mm-wide/
+[0]: http://ridefullgas.com/dm8
+[1]: http://ridefullgas.com/customer-reviews/
+[2]: http://ridefullgas.com/dm8-series-super-fat-boys-28mm-wide/
