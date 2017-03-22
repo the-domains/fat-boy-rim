@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/_julietelliott/status/833730142870634500'
-datePublished: '2017-03-22T14:07:43.406Z'
-dateModified: '2017-03-22T14:07:43.164Z'
+datePublished: '2017-03-22T19:19:37.109Z'
+dateModified: '2017-03-22T19:19:36.185Z'
 title: ''
 via: {}
 inFeed: true
