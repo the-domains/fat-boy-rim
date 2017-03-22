@@ -12,8 +12,8 @@ description: ''
 title: Lilly McNabb spins on these DM8 Fifty Eight Fat Boys
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/lillymcnabbtriathlete/posts/1132635376846795'
-datePublished: '2017-03-22T19:19:37.102Z'
-dateModified: '2017-03-22T19:19:36.185Z'
+datePublished: '2017-03-22T19:23:26.285Z'
+dateModified: '2017-03-22T19:23:25.271Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-first-glimpse-of-a-recent-photoshoot-for-zone3-watch-thi.md
