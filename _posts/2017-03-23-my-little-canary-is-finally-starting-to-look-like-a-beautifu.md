@@ -32,15 +32,15 @@ title: >-
   #cycling #cyclistlife #womenwhoride #maapapparel #cyclingshots #stravacycling
   #fromwhereiride #8barbikes #outsideisfree #fromwhereiride #inmyelemnt
   #wahooligan #8bar
-datePublished: '2017-03-23T15:46:02.871Z'
-dateModified: '2017-03-23T15:45:13.634Z'
-datePublishedOriginal: '2017-03-23T15:46:02.871Z'
+datePublished: '2017-03-23T15:47:45.818Z'
+dateModified: '2017-03-23T15:47:43.683Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-23-my-little-canary-is-finally-starting-to-look-like-a-beautifu.md
+starred: false
+datePublishedOriginal: '2017-03-23T15:46:02.871Z'
 _type: Photograph
 _context: 'http://schema.org'
 
