@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://instagram.com/p/BRc-gshDaqg/'
 title: "So so happy to take first female for the #desafío8isla at the weekend ☺ a really fun weekend ☺ couldn't have done it without @bella.bayliss \uD83D\uDE18\uD83D\uDE18 or @jamesmitchell5 or @spinonthese or @jimradcliffesportsmassage or @masdeporteslanzarote or the rest of the @triactivlanzarote team \uD83D\uDCAA\uD83C\uDFFC\uD83D\uDCAA\uD83C\uDFFC #triathlonteam #desafio8isla #triactiv #podium #lagraciosa #offroadtriathlon #lovelanzarote #swimbikerun #trails #trailrunning"
-datePublished: '2017-04-18T18:08:57.459Z'
-dateModified: '2017-04-18T18:08:55.114Z'
+datePublished: '2017-04-24T19:03:02.810Z'
+dateModified: '2017-04-24T19:02:59.933Z'
 description: ''
 via: {}
 inFeed: true
