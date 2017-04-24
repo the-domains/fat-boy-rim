@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BRoMuW6gixr/?taken-by=lewis_wil'
 title: "Just wanted to thank @spinonthese for making great wheels \uD83D\uDC4C Hit a curb and a wall on a flat tire at 43kph, the wheel is still true and undamaged Could have been worse if the wheel had shattered \uD83E\uDD18\uD83C\uDFFC"
-datePublished: '2017-04-18T18:08:57.491Z'
-dateModified: '2017-04-18T18:08:55.114Z'
+datePublished: '2017-04-24T19:03:02.860Z'
+dateModified: '2017-04-24T19:02:59.933Z'
 description: ''
 via: {}
 inFeed: true
