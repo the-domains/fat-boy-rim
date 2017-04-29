@@ -30,8 +30,8 @@ title: >-
   Finally it's #critweek and we are back riding all together! So stoked for this
   new year and racing for our very own @revoracingteam with @lewis_wil and
   @jeremysantucci :-) good times ahead
-datePublished: '2017-04-29T11:20:38.654Z'
-dateModified: '2017-04-29T11:20:37.092Z'
+datePublished: '2017-04-29T12:38:32.199Z'
+dateModified: '2017-04-29T12:38:31.228Z'
 description: ''
 via: {}
 inFeed: true
