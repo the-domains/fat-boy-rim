@@ -30,14 +30,14 @@ title: >-
   Testing out the updated steed before road season starts :-) Thanks
   @spinonthese for these rad set of wheels and @sellesanmarco for keeping my
   butt comfy
-datePublished: '2017-03-07T13:32:44.846Z'
-dateModified: '2017-03-07T13:31:34.735Z'
-datePublishedOriginal: '2017-03-07T13:32:44.846Z'
+datePublished: '2017-04-29T12:46:38.321Z'
+dateModified: '2017-04-29T12:46:37.027Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-07-testing-out-the-updated-steed-before-road-season-starts-.md
+starred: false
+datePublishedOriginal: '2017-03-07T13:32:44.846Z'
 _type: Photograph
 _context: 'http://schema.org'
 
