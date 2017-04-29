@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BR4COLUlUI7/?taken-by=jeremysantucci'
 title: "Spinning around upstate with @weismfg and @spinonthese \uD83D\uDEB4\uD83C\uDFFC✨☃️"
-datePublished: '2017-04-29T12:38:32.244Z'
-dateModified: '2017-04-29T12:38:31.228Z'
+datePublished: '2017-04-29T12:39:11.610Z'
+dateModified: '2017-04-29T12:39:10.953Z'
 description: ''
 via: {}
 inFeed: true
