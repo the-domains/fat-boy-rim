@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BTcVng1jsol/?taken-by=weismfg'
 title: "@spinonthese and I teamed up to make a RHC race machine. I'll be at the @redhookcrit all day tomorrow with it. If you take a pic put it on insta and tag @spinonthese and @weismfg I'll give ya a free T! #tyte #prototyte #weismfg #framebuilding #redhookcrit big thanks to @arcanemoto for the \uD83D\uDD25 paint"
-datePublished: '2017-04-29T10:52:11.191Z'
-dateModified: '2017-04-29T10:52:09.554Z'
+datePublished: '2017-04-29T11:11:24.008Z'
+dateModified: '2017-04-29T11:11:23.861Z'
 description: ''
 via: {}
 inFeed: true
