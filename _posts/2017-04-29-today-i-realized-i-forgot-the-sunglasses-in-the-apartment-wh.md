@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BTUR75IjaEa/?taken-by=miquirueda'
 title: "Today i realized i forgot the sunglasses in the apartment when i was downstairs, didn't even think about going back to the 39th floor to take them \uD83D\uDE02 #instagood #instabike #instafixed #rocket #redhook #redhookcrit #girona #photography #picoftheday #onegearnobrakes #nobrakesnoteeth #nobrakesneeded #roadbike #ciclismecatalunya #catalunyacycling #bikes #roadbike #cycling #cyclinglife #catalunya #spain #girona #road #coffee #rhc #fixie #fixed #fixedgear #love #bikes #newyork #coffee #nyc"
-datePublished: '2017-04-29T10:52:11.240Z'
-dateModified: '2017-04-29T10:52:09.554Z'
+datePublished: '2017-04-29T11:13:14.360Z'
+dateModified: '2017-04-29T11:13:12.940Z'
 description: ''
 via: {}
 inFeed: true
