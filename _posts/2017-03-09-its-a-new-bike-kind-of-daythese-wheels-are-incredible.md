@@ -29,14 +29,14 @@ isBasedOnUrl: 'https://www.instagram.com/p/BRa0KONjrD-/?taken-by=steevviieee'
 title: >-
   It's a new bike kind of day...these wheels are incredible! #spinonthese
   @spinonthese #scottaddict #addictsl
-datePublished: '2017-03-09T17:34:04.985Z'
-dateModified: '2017-03-09T17:33:52.703Z'
-datePublishedOriginal: '2017-03-09T17:34:04.985Z'
+datePublished: '2017-04-29T12:46:38.323Z'
+dateModified: '2017-04-29T12:46:37.027Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-09-its-a-new-bike-kind-of-daythese-wheels-are-incredible.md
+starred: false
+datePublishedOriginal: '2017-03-09T17:34:04.985Z'
 _type: Photograph
 _context: 'http://schema.org'
 
