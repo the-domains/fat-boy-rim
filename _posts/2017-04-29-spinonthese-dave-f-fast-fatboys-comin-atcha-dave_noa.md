@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BTG7qjXlcmz/?taken-by=spinonthese'
 title: >-
   #SpinOnThese Dave! F-fast #FatBoys comin' atcha... @dave_noakes #bikes #fixed
   #trackbike #fixedcrit #rhc #redhook #redhookcritiscoming #etc
-datePublished: '2017-04-29T12:38:32.199Z'
-dateModified: '2017-04-29T12:38:31.228Z'
+datePublished: '2017-04-29T12:39:11.506Z'
+dateModified: '2017-04-29T12:39:10.953Z'
 description: ''
 via: {}
 inFeed: true
