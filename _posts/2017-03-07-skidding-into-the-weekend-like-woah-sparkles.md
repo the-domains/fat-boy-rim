@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BRL4IwwlqnS/?taken-by=jeremysantucci'
 title: "Skidding Into the weekend like woah \uD83D\uDEB4\uD83C\uDFFC\uD83D\uDD28✨\uD83D\uDD25"
-datePublished: '2017-03-07T13:37:36.714Z'
-dateModified: '2017-03-07T13:36:50.874Z'
-datePublishedOriginal: '2017-03-07T13:37:36.714Z'
+datePublished: '2017-04-29T12:46:38.315Z'
+dateModified: '2017-04-29T12:46:37.027Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-07-skidding-into-the-weekend-like-woah-sparkles.md
+starred: false
+datePublishedOriginal: '2017-03-07T13:37:36.714Z'
 _type: Photograph
 _context: 'http://schema.org'
 
