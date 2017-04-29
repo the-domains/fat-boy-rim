@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BTMFFuHjcvK/?taken-by=miquirueda'
 title: "Happy Saturday \uD83D\uDE04 @sergimunyoz \uD83D\uDCF8 #instagood #instabike #instafixed #rocket #redhook #redhookcrit #girona #photography #picoftheday #onegearnobrakes #nobrakesnoteeth #nobrakesneeded #roadbike #ciclismecatalunya #catalunyacycling #bikes #roadbike #cycling #cyclinglife #catalunya #spain #girona #road #coffee #rhc #fixie #fixed #fixedgear #love #bikes #girona #coffee"
-datePublished: '2017-04-29T11:20:38.880Z'
-dateModified: '2017-04-29T11:20:37.092Z'
+datePublished: '2017-04-29T12:08:52.006Z'
+dateModified: '2017-04-29T12:08:50.731Z'
 description: ''
 via: {}
 inFeed: true
