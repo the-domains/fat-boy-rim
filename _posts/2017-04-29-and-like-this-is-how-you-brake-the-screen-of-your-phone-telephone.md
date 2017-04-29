@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BTBrGGejZ98/?taken-by=miquirueda'
 title: "And like this is how you brake the screen of your phone ☎️ @nickweidmann \uD83D\uDCF8 #instagood #instabike #instafixed #rocket #redhook #redhookcrit #girona #photography #picoftheday #onegearnobrakes #nobrakesnoteeth #nobrakesneeded #roadbike #ciclismecatalunya #catalunyacycling #bikes #roadbike #cycling #cyclinglife #catalunya #spain #girona #road #coffee #rhc #fixie #fixed #fixedgear #love #bikes #girona #coffee"
-datePublished: '2017-04-29T10:42:51.076Z'
-dateModified: '2017-04-29T10:42:49.632Z'
+datePublished: '2017-04-29T10:52:11.240Z'
+dateModified: '2017-04-29T10:52:09.554Z'
 description: ''
 via: {}
 inFeed: true
