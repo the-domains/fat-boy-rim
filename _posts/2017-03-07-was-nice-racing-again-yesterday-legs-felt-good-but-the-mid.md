@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BRTteQwA8d0/'
 title: "Was nice racing again yesterday! Legs felt good, but the mid race rain and 1 degree meant I couldn't feel my hands 35km to the finish and had to stop... ❄️ Good prep for next Sunday! \uD83E\uDD18\uD83C\uDFFC\uD83D\uDCAA\uD83C\uDFFD"
-datePublished: '2017-05-08T10:39:22.688Z'
-dateModified: '2017-05-08T10:39:19.899Z'
+datePublished: '2017-05-08T16:46:54.180Z'
+dateModified: '2017-05-08T16:46:50.763Z'
 description: ''
 via: {}
 inFeed: true
