@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BRa0KONjrD-/?taken-by=steevviieee'
 title: >-
   It's a new bike kind of day...these wheels are incredible! #spinonthese
   @spinonthese #scottaddict #addictsl
-datePublished: '2017-05-08T10:39:22.699Z'
-dateModified: '2017-05-08T10:39:19.899Z'
+datePublished: '2017-05-08T16:46:54.174Z'
+dateModified: '2017-05-08T16:46:50.763Z'
 description: ''
 via: {}
 inFeed: true
