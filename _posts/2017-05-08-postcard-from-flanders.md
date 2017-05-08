@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-08T16:43:57.433Z'
-datePublished: '2017-05-08T16:43:57.999Z'
+dateModified: '2017-05-08T16:45:12.835Z'
+datePublished: '2017-05-08T16:45:13.374Z'
 title: Postcard from Flanders
 author: []
 publisher:
@@ -10,14 +10,18 @@ publisher:
   name: Byron Munton
 via: {}
 sourcePath: _posts/2017-05-08-postcard-from-flanders.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-08T16:42:31.423Z'
-_type: Blurb
+url: postcard-from-flanders/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/901aab07-b409-4483-9c2d-a9bfbf36e378.jpg)
 
 # Postcard from Flanders
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/321e4d7d-8c7a-478b-8f5f-da70d98bffed.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/541110e1-b775-4ade-af71-8bd49b8181aa.jpg)
 
 > Hi Drew
 > I arrived in Belgium and have started to settle down. Still getting used to Europe's (so called) summer finding it a bit chilly. 
