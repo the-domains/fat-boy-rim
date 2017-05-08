@@ -74,8 +74,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/wHjMXUjUWfE'
 title: THUNDERCRIT 2017 - FIXED GEAR CRIT
-datePublished: '2017-05-08T10:39:22.606Z'
-dateModified: '2017-05-08T10:39:19.899Z'
+datePublished: '2017-05-08T11:02:07.615Z'
+dateModified: '2017-05-08T11:02:02.695Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2017-fixed-gear-crit.md
