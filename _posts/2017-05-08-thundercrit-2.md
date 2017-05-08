@@ -21,8 +21,8 @@ app_links:
 isBasedOnUrl: >-
   https://photos.google.com/share/AF1QipM_r9Gj-m84g1QbRLwe57yT6DruJ9TlZvSbOi6ptnKxlfG7_mGawWXN7uoUfp7PAA?key=ckZCd3c5R0x3TEJXc3pGNS0ySDRZeVZvZm9VOFJR
 title: All the action from ThunderCrit 2
-datePublished: '2017-05-08T14:59:34.794Z'
-dateModified: '2017-05-08T14:59:34.180Z'
+datePublished: '2017-05-08T15:01:33.024Z'
+dateModified: '2017-05-08T15:01:32.427Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
@@ -35,5 +35,7 @@ _type: MediaObject
 # All the action from ThunderCrit 2
 
 <article style=""><h1>Thundercrit 2</h1><p>130 new photos · Album by Miklós Ispán</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6436e81-54a4-4531-b598-de4f1185e76a.jpg)
 
 ## Thanks for shootin' Miklós!
