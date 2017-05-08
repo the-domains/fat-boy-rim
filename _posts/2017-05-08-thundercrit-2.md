@@ -2,12 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://photos.google.com'
-  name: Google Photos
-  favicon: 'https://ssl.gstatic.com/images/branding/product/1x/photos_64dp.png'
-  domain: photos.google.com
+  url: 'https://goo.gl/photos/BmLnVrLskL96ChADA'
+  name: Miklós Ispán
 keywords: []
-description: 130 new photos · Album by Miklós Ispán
+description: ''
 app_links:
   - namespace: twitter
     type: ipad
@@ -18,21 +16,22 @@ app_links:
   - namespace: twitter
     type: iphone
     id: id962194608
-isBasedOnUrl: >-
-  https://photos.google.com/share/AF1QipM_r9Gj-m84g1QbRLwe57yT6DruJ9TlZvSbOi6ptnKxlfG7_mGawWXN7uoUfp7PAA?key=ckZCd3c5R0x3TEJXc3pGNS0ySDRZeVZvZm9VOFJR
 title: All the action from ThunderCrit 2
-datePublished: '2017-05-08T15:01:33.024Z'
-dateModified: '2017-05-08T15:01:32.427Z'
+datePublished: '2017-05-08T15:07:21.820Z'
+dateModified: '2017-05-08T15:07:21.348Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-08T10:52:49.660Z'
+url: all-the-action-from-thundercrit-2/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 # All the action from ThunderCrit 2
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b6ce4d-c0aa-4097-ba4f-f4d403db0ba9.jpg)
 
 <article style=""><h1>Thundercrit 2</h1><p>130 new photos · Album by Miklós Ispán</p></article>
 
