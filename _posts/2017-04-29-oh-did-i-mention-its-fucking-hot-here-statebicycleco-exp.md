@@ -30,8 +30,8 @@ title: >-
   Oh did I mention it's fucking hot here! #statebicycleco #exploreyourstate
   #factory5 #challengetires #bellzephyr #oxeego #tapintopower #nltcbmbc #sttb
   #cycling #fixedgear
-datePublished: '2017-05-08T11:02:07.572Z'
-dateModified: '2017-05-08T11:02:02.695Z'
+datePublished: '2017-05-08T16:46:54.076Z'
+dateModified: '2017-05-08T16:46:50.763Z'
 description: ''
 via: {}
 inFeed: true
