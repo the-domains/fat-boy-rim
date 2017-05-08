@@ -20,9 +20,9 @@ app_links:
     id: id962194608
 isBasedOnUrl: >-
   https://photos.google.com/share/AF1QipM_r9Gj-m84g1QbRLwe57yT6DruJ9TlZvSbOi6ptnKxlfG7_mGawWXN7uoUfp7PAA?key=ckZCd3c5R0x3TEJXc3pGNS0ySDRZeVZvZm9VOFJR
-title: Thundercrit 2
-datePublished: '2017-05-08T11:02:07.641Z'
-dateModified: '2017-05-08T11:02:02.695Z'
+title: All the action from ThunderCrit 2
+datePublished: '2017-05-08T11:04:30.520Z'
+dateModified: '2017-05-08T11:04:29.756Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
@@ -32,4 +32,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Thundercrit 2</h1><p>130 new photos · Album by Miklós Ispán</p><img src="https://lh3.googleusercontent.com/lYRCxlusWj73DBWheib_vjfjdhCFkqUMEV_LhXK3kuVS44TKBeP6XRH7anblBgwNgMv1yu2XiQsu38mSYpg3_XaSuoO7vH04ytAREmnTzlTvgbL7VsUtOoL6HhJBYlcJYsierg=w600-h315-p-k" /></article>
+# All the action from ThunderCrit 2
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/392dd0db8cc30e507ebafb5884130163/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FlYRCxlusWj73DBWheib_vjfjdhCFkqUMEV_LhXK3kuVS44TKBeP6XRH7anblBgwNgMv1yu2XiQsu38mSYpg3_XaSuoO7vH04ytAREmnTzlTvgbL7VsUtOoL6HhJBYlcJYsierg%3Dw600-h315-p-k" /><h1>Thundercrit 2</h1><p>130 new photos · Album by Miklós Ispán</p></article>
+
+## Thanks for shootin' Miklós!
