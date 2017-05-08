@@ -30,8 +30,8 @@ title: >-
   Testing out the updated steed before road season starts :-) Thanks
   @spinonthese for these rad set of wheels and @sellesanmarco for keeping my
   butt comfy
-datePublished: '2017-05-08T10:27:45.154Z'
-dateModified: '2017-05-08T10:27:42.662Z'
+datePublished: '2017-05-08T10:39:22.700Z'
+dateModified: '2017-05-08T10:39:19.899Z'
 description: ''
 via: {}
 inFeed: true
