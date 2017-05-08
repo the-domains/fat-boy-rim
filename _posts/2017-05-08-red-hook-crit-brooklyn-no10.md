@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.troisiemeoeil.space/rchbk10'
 title: 'Red Hook Crit : Brooklyn No.10'
-datePublished: '2017-05-08T20:01:14.467Z'
-dateModified: '2017-05-08T20:01:12.430Z'
+datePublished: '2017-05-08T20:03:22.675Z'
+dateModified: '2017-05-08T20:03:22.110Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-red-hook-crit-brooklyn-no10.md
