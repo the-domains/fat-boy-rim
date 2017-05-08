@@ -21,8 +21,8 @@ app_links:
 isBasedOnUrl: >-
   https://photos.google.com/share/AF1QipM_r9Gj-m84g1QbRLwe57yT6DruJ9TlZvSbOi6ptnKxlfG7_mGawWXN7uoUfp7PAA?key=ckZCd3c5R0x3TEJXc3pGNS0ySDRZeVZvZm9VOFJR
 title: All the action from ThunderCrit 2
-datePublished: '2017-05-08T11:04:30.520Z'
-dateModified: '2017-05-08T11:04:29.756Z'
+datePublished: '2017-05-08T12:48:45.770Z'
+dateModified: '2017-05-08T12:48:45.271Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
