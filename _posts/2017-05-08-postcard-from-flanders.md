@@ -1,15 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-08T16:42:30.766Z'
-datePublished: '2017-05-08T16:42:31.423Z'
+dateModified: '2017-05-08T16:43:57.433Z'
+datePublished: '2017-05-08T16:43:57.999Z'
 title: Postcard from Flanders
 author: []
-publisher: {}
+publisher:
+  url: 'https://www.instagram.com/byron_munton/'
+  name: Byron Munton
 via: {}
+sourcePath: _posts/2017-05-08-postcard-from-flanders.md
 starred: false
 datePublishedOriginal: '2017-05-08T16:42:31.423Z'
-sourcePath: _posts/2017-05-08-postcard-from-flanders.md
 _type: Blurb
 
 ---
