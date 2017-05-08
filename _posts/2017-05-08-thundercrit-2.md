@@ -18,8 +18,8 @@ app_links:
     type: iphone
     id: id962194608
 title: All the action from ThunderCrit 2
-datePublished: '2017-05-08T20:29:35.459Z'
-dateModified: '2017-05-08T20:29:34.935Z'
+datePublished: '2017-05-08T20:32:46.409Z'
+dateModified: '2017-05-08T20:32:46.140Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
