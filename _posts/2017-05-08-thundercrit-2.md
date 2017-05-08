@@ -2,7 +2,8 @@
 author: []
 related: []
 publisher:
-  url: 'https://photos.google.com'
+  url: >-
+    https://photos.google.com/share/AF1QipM_r9Gj-m84g1QbRLwe57yT6DruJ9TlZvSbOi6ptnKxlfG7_mGawWXN7uoUfp7PAA?key=ckZCd3c5R0x3TEJXc3pGNS0ySDRZeVZvZm9VOFJR
   name: Google Photos
 keywords: []
 description: 130 new photos · Album by Miklós Ispán
@@ -17,8 +18,8 @@ app_links:
     type: iphone
     id: id962194608
 title: All the action from ThunderCrit 2
-datePublished: '2017-05-08T16:02:44.106Z'
-dateModified: '2017-05-08T16:02:43.108Z'
+datePublished: '2017-05-08T16:07:19.905Z'
+dateModified: '2017-05-08T16:07:19.267Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-thundercrit-2.md
