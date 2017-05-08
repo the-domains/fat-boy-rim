@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BS-B6EshmhB/?taken-by=nyckenji'
 title: "\uD83D\uDC4A\uD83D\uDD04\uD83D\uDEB5\uD83D\uDCA8\uD83D\uDD04\uD83D\uDC4A call me crazy, but I've always been supportive of my seven year-old daughter akira's interest in visual arts, and i try to put a camera in her hands whenever we're out together - and she's never let me down. here's one of her snaps from the \"tucci/buckets sprint\" at #6DaysOfKissena \uD83D\uDCF8: @ackalackadingdong #HomeGirlIs7 #TeamSnugglyBear \uD83D\uDC4A✌ . . #GoFastTurnLeft #AffinityCycles #WhatsYourAffinity #SixDaysOfKissena #TrackRacing #FixedGear #TrackBike #Pista #STTB #SaveTheTrackBike #AHTTB #AllHailTheTrackBike #BikeNY #BikeNYC #BikeNewYork #KissenaParkVelodrome #KissenaPark #Velodrome #Queens #NYC"
-datePublished: '2017-05-08T11:02:07.640Z'
-dateModified: '2017-05-08T11:02:02.695Z'
+datePublished: '2017-05-08T16:46:54.077Z'
+dateModified: '2017-05-08T16:46:50.763Z'
 description: ''
 via: {}
 inFeed: true
