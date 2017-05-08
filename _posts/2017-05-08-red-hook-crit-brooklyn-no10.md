@@ -8,8 +8,8 @@ keywords: []
 description: ''
 app_links: []
 title: ''
-datePublished: '2017-05-08T20:09:39.723Z'
-dateModified: '2017-05-08T20:09:37.967Z'
+datePublished: '2017-05-08T20:10:17.294Z'
+dateModified: '2017-05-08T20:10:16.447Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-red-hook-crit-brooklyn-no10.md
