@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BRL4IwwlqnS/?taken-by=jeremysantucci'
 title: "Skidding Into the weekend like woah \uD83D\uDEB4\uD83C\uDFFC\uD83D\uDD28✨\uD83D\uDD25"
-datePublished: '2017-05-08T11:02:07.759Z'
-dateModified: '2017-05-08T11:02:02.695Z'
+datePublished: '2017-05-08T16:46:54.175Z'
+dateModified: '2017-05-08T16:46:50.763Z'
 description: ''
 via: {}
 inFeed: true
