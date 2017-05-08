@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BTcujb4j3j9/?taken-by=weismfg'
 title: "So #tyte \uD83D\uDD7A\uD83C\uDFFB\uD83D\uDD7A\uD83C\uDFFB\uD83D\uDD7A\uD83C\uDFFB find us tomorrow at the @redhookcrit to claim a free T @spinonthese \uD83D\uDC4C\uD83C\uDFFD"
-datePublished: '2017-05-08T10:39:22.637Z'
-dateModified: '2017-05-08T10:39:19.899Z'
+datePublished: '2017-05-08T11:02:07.640Z'
+dateModified: '2017-05-08T11:02:02.695Z'
 description: ''
 via: {}
 inFeed: true
