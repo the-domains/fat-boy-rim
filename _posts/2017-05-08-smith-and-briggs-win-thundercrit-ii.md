@@ -15,13 +15,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://fixedgearcrit.com/smith-and-briggs-win-thundercrit-ii/'
 title: Smith and Briggs win Thundercrit II
-datePublished: '2017-05-08T10:36:27.656Z'
-dateModified: '2017-05-08T10:35:42.841Z'
-datePublishedOriginal: '2017-05-08T10:36:27.656Z'
+datePublished: '2017-05-08T10:39:22.570Z'
+dateModified: '2017-05-08T10:39:19.899Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-05-08-smith-and-briggs-win-thundercrit-ii.md
+starred: false
+datePublishedOriginal: '2017-05-08T10:36:27.656Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
