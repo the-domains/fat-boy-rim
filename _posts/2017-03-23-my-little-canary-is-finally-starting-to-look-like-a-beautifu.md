@@ -32,8 +32,8 @@ title: >-
   #cycling #cyclistlife #womenwhoride #maapapparel #cyclingshots #stravacycling
   #fromwhereiride #8barbikes #outsideisfree #fromwhereiride #inmyelemnt
   #wahooligan #8bar
-datePublished: '2017-05-08T10:27:45.087Z'
-dateModified: '2017-05-08T10:27:42.662Z'
+datePublished: '2017-05-08T11:02:07.690Z'
+dateModified: '2017-05-08T11:02:02.695Z'
 description: ''
 via: {}
 inFeed: true
