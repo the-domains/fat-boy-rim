@@ -8,8 +8,8 @@ keywords:
 description: All the action at Rapha Nocturne captured beautifully by Sam Dunn
 app_links: []
 title: ''
-datePublished: '2017-06-12T19:04:12.796Z'
-dateModified: '2017-06-12T19:04:11.933Z'
+datePublished: '2017-06-12T19:06:24.865Z'
+dateModified: '2017-06-12T19:06:24.005Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-12-rapha-nocturne-2017-sam-dunn-snaps.md
@@ -29,6 +29,4 @@ _type: MediaObject
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbe27873a5cac27fb28f3f52ed922a7dfecd5737.jpg" /><h1>RAPHA NOCTURNE 2017 - Sam Dunn Photogallery</h1></article>
 
-[All the action at Rapha Nocturne captured beautifully by Sam Dunn][0]
-
-[0]: http://www.samdunnsnaps.com/RAPHA-NOCTURNE-2017 "Gallery"
+All the action at Rapha Nocturne captured beautifully by Sam Dunn
