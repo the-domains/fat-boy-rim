@@ -9,8 +9,8 @@ keywords: []
 description: Read the whole story and see all the action here…
 app_links: []
 title: 'William Lewis: racing RHC Brooklyn #10'
-datePublished: '2017-06-12T18:25:12.892Z'
-dateModified: '2017-06-12T18:25:10.911Z'
+datePublished: '2017-06-14T09:16:10.455Z'
+dateModified: '2017-06-14T09:16:08.148Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-08-red-hook-crit-brooklyn-no10.md
