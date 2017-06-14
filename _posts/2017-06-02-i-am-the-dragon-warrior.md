@@ -4,8 +4,8 @@ description: >-
   Being a mediocre athlete sucks, most the time. But occasionally, just like
   life, you get little glimmers of hope and success that fortify you to keep
   going for that little bit further.
-dateModified: '2017-06-12T18:25:10.911Z'
-datePublished: '2017-06-12T18:25:12.921Z'
+dateModified: '2017-06-14T09:16:08.148Z'
+datePublished: '2017-06-14T09:16:10.504Z'
 title: I am the Dragon Warrior. Sort of…
 author: []
 publisher: {}
