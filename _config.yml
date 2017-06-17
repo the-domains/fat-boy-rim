@@ -62,6 +62,31 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18f233f-af11-4f59-91c2-ba1aba652abd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18f233f-af11-4f59-91c2-ba1aba652abd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: "Effortless speed. Gut wrenching grip. Incredible comfort. It's all down to these Fat Boys' superior width. Koppenberg wheels from Spin Industries are hand built with passion and precision. Every one made here in my Speed Shop in the heart of England. And built with just one specific rider in mind. You!\_"
 purpose:
   - type: external
