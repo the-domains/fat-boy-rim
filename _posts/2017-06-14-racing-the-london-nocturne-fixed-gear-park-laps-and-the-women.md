@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/DOfE70ew_lY'
 title: 'Racing the London Nocturne, fixed gear park laps & the Women''s Tour'
-datePublished: '2017-06-14T09:16:10.497Z'
-dateModified: '2017-06-14T09:16:08.148Z'
+datePublished: '2017-07-01T10:27:19.287Z'
+dateModified: '2017-07-01T10:27:18.011Z'
 via: {}
 inFeed: true
 sourcePath: >-
