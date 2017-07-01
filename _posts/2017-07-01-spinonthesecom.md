@@ -18,8 +18,8 @@ app_links:
     app_store_id: '328407587'
 isBasedOnUrl: 'https://flic.kr/p/W7kXm6'
 title: Matt’s (almost entirely) Matt Black Bike
-datePublished: '2017-07-01T13:32:26.876Z'
-dateModified: '2017-07-01T13:32:26.067Z'
+datePublished: '2017-07-01T13:35:36.909Z'
+dateModified: '2017-07-01T13:35:36.139Z'
 description: ''
 via: {}
 inFeed: true
