@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BVTzMjIAX9s/?taken-by=louielooping'
 title: "From now on I'm gonna @spinonthese \uD83C\uDF00 thanks so much for your support and these awesome wheels ⚡️ . . . #fixedpott #london #nocturne #drinking #fixedgear #cycling #racing #ballern #spinonthese #critlife #critlifecrisis #fixedgearfamily #teamalpaca #upgrade #carbonstattkondition"
-datePublished: '2017-07-01T12:37:19.975Z'
-dateModified: '2017-07-01T12:37:17.981Z'
+datePublished: '2017-07-01T12:50:38.487Z'
+dateModified: '2017-07-01T12:50:36.868Z'
 description: ''
 via: {}
 inFeed: true
