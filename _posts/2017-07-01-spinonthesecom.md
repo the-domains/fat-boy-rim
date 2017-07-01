@@ -17,9 +17,11 @@ app_links:
     app_name: Flickr
     app_store_id: '328407587'
 isBasedOnUrl: 'https://flic.kr/p/W7kXm6'
-title: Matt’s (almost entirely) Matt Black Bike
-datePublished: '2017-07-01T13:35:36.909Z'
-dateModified: '2017-07-01T13:35:36.139Z'
+title: >-
+  Matt’s (almost entirely) Matt Black Bike is powered by these Black Limited
+  SL-58s
+datePublished: '2017-07-01T17:31:01.515Z'
+dateModified: '2017-07-01T17:31:00.734Z'
 description: ''
 via: {}
 inFeed: true
@@ -31,7 +33,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# Matt's (almost entirely) Matt Black Bike
-![](https://farm5.staticflickr.com/4232/35518210781_5397174bfc_b.jpg)
+# Matt's (almost entirely) Matt Black Bike is powered by these Black Limited SL-58s
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ae486e75a84c2c8ddf1774d15637bf09/noop.jpg?input=https%3A%2F%2Ffarm5.staticflickr.com%2F4232%2F35518210781_5397174bfc_b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/548f473d3d3fcfddc74c8d0de71e295e5c906301.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/202bd38f-e896-4797-b4b1-a41e4585381a.jpg)
