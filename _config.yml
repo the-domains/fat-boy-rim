@@ -79,7 +79,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -90,8 +89,8 @@ content:
 description: "Effortless speed. Gut wrenching grip. Incredible comfort. It's all down to these Fat Boys' superior width. Koppenberg wheels from Spin Industries are hand built with passion and precision. Every one made here in my Speed Shop in the heart of England. And built with just one specific rider in mind. You!\_"
 purpose:
   - type: external
-    url: 'http://ridefullgas.com/dm8-series-super-fat-boys-28mm-wide/'
-    label: Buy Now
+    url: 'http://ridefullgas.com/wheels/'
+    label: Shop
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
     label: Questions?
