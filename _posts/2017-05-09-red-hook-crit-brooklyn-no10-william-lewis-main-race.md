@@ -67,8 +67,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VKrIEQmUae4'
 title: 'Red Hook Crit Brooklyn No.10 : William Lewis (main race)'
-datePublished: '2017-07-01T12:37:19.983Z'
-dateModified: '2017-07-01T12:37:17.981Z'
+datePublished: '2017-07-01T12:50:38.509Z'
+dateModified: '2017-07-01T12:50:36.868Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-09-red-hook-crit-brooklyn-no10-william-lewis-main-race.md
