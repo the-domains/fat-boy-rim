@@ -36,7 +36,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
-title: Life's too short for boring wheels
+title: Spin On These. Because life's too short for boring wheels
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
