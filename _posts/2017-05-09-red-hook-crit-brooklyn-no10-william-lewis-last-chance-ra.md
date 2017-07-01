@@ -67,8 +67,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/KJVThmzJOk0'
 title: 'Red Hook Crit Brooklyn No.10 : William Lewis (last chance race)'
-datePublished: '2017-07-01T10:27:19.259Z'
-dateModified: '2017-07-01T10:27:18.011Z'
+datePublished: '2017-07-01T10:42:35.217Z'
+dateModified: '2017-07-01T10:42:34.573Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-09-red-hook-crit-brooklyn-no10-william-lewis-last-chance-ra.md
