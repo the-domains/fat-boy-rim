@@ -13,17 +13,17 @@ app_links:
     namespace: ai
     app_name: Flickr
     app_store_id: '328407587'
+isBasedOnUrl: 'https://flic.kr/p/W7kXm6'
 title: Matt’s (almost entirely) Matt Black Bike
-datePublished: '2017-07-01T10:57:50.424Z'
-dateModified: '2017-07-01T10:57:49.911Z'
+datePublished: '2017-07-01T10:59:18.717Z'
+dateModified: '2017-07-01T10:59:17.873Z'
 description: ''
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-01-spinonthesecom.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-07-01T10:01:30.755Z'
-url: spinonthesecom/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
