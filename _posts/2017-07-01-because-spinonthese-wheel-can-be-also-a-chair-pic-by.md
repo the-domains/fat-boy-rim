@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BV-OoYwAWum/?taken-by=virginiacancellieri'
 title: "Because @spinonthese wheel can be also a chair \uD83D\uDE44\uD83D\uDE01 Pic by @mattbenstone #maap#maapapparel#spinonthese#cyclistlife#picoftheday#mood#bikerlifestyle#cyclist#cycling#biker#bikegirls#bikers#bikestagram#girlonbike#studio#shooting"
-datePublished: '2017-07-01T12:37:19.974Z'
-dateModified: '2017-07-01T12:37:17.981Z'
+datePublished: '2017-07-01T12:50:38.509Z'
+dateModified: '2017-07-01T12:50:36.868Z'
 description: ''
 via: {}
 inFeed: true
