@@ -5,7 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  name: Matt Osborne
+  url: 'https://www.flickr.com/'
+  name: Flickr
+  favicon: 'https://www.flickr.com/favicon.ico'
+  domain: flic.kr
 keywords: []
 app_links:
   - url: 'flickr://flickr.com/photos/32681588@N03/35515057761'
@@ -15,8 +18,8 @@ app_links:
     app_store_id: '328407587'
 isBasedOnUrl: 'https://flic.kr/p/W7kXm6'
 title: Matt’s (almost entirely) Matt Black Bike
-datePublished: '2017-07-01T12:50:38.508Z'
-dateModified: '2017-07-01T12:50:36.868Z'
+datePublished: '2017-07-01T13:32:26.876Z'
+dateModified: '2017-07-01T13:32:26.067Z'
 description: ''
 via: {}
 inFeed: true
@@ -29,6 +32,6 @@ _context: 'http://schema.org'
 
 ---
 # Matt's (almost entirely) Matt Black Bike
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfbf1618-4e40-4e4f-a736-03b156627b64.jpg)
+![](https://farm5.staticflickr.com/4232/35518210781_5397174bfc_b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/548f473d3d3fcfddc74c8d0de71e295e5c906301.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/202bd38f-e896-4797-b4b1-a41e4585381a.jpg)
