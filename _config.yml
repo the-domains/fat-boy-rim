@@ -86,7 +86,12 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: "Effortless speed. Gut wrenching grip. Incredible comfort. Now you can have it all thanks to Fat Boy Rim's superior width.  Spin Industries Fat Boys are hand built with passion and precision. Every one made here in our Speed Shop in the heart of England. And built with just one specific rider in mind. You!\_ Demand more from your wheels."
+description: >-
+  Effortless speed. Gut wrenching grip. Incredible comfort. Now you can have it
+  all thanks to Fat Boy Rim's super wide aero profiles.  Spin Industries Fat
+  Boys deliver more wheel for your money. Each one hand built with passion and
+  precision here at The Speed Shop in the heart of England. And built with just
+  one specific rider in mind. You!
 purpose:
   - type: external
     url: 'http://ridefullgas.com/wheels/'
