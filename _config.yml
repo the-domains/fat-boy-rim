@@ -25,7 +25,7 @@ navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
-  - name: Fat Boy Wheels
+  - name: Meet the Fat Boys
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
   - name: Custom Titanium & Carbon Frames
