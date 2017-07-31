@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-31T15:46:00.316Z'
-datePublished: '2017-07-31T15:46:00.985Z'
+dateModified: '2017-07-31T15:47:05.125Z'
+datePublished: '2017-07-31T15:47:06.130Z'
 title: Pete compares his Zipp 303s to these RS-45 Fat Boys
 author: []
 publisher: {}
