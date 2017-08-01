@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-01T14:35:50.128Z'
-datePublished: '2017-08-01T14:35:51.163Z'
+dateModified: '2017-08-01T14:39:24.208Z'
+datePublished: '2017-08-01T14:39:24.857Z'
 title: 'Will these #FatBoys fit my bike?'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-01-will-these-fatboys-fit-my-bike.md
 starred: false
 datePublishedOriginal: '2017-08-01T14:35:51.163Z'
-sourcePath: _posts/2017-08-01-will-these-fatboys-fit-my-bike.md
 _type: Blurb
 
 ---
@@ -19,5 +19,6 @@ _type: Blurb
 
 > Hi Drew, my new DM8s are superb, as you said they'd be...
 > Ran with 60 and 80 psi for a floaty ride over my regular route with some rough surfaces. It was quite gusty but no issues with stability. Looking forward to some free riding in groups as they roll great. 
+> These wheels also make my 20 year old rebuilt Coppi ride and look great. I could be back for more.
 > Many thanks
 > Steve
