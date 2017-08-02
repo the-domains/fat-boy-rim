@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   Thanks for the terrific images Caro, and thanks to all the fast boys and girls
   who sailed their #FatBoys through the deluge. 
-dateModified: '2017-08-02T18:20:28.408Z'
-datePublished: '2017-08-02T18:20:29.067Z'
+dateModified: '2017-08-02T18:20:29.604Z'
+datePublished: '2017-08-02T18:20:29.957Z'
 title: 'Redhook Crit London #3 - wet & awesome!'
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-08-02T18:20:29.067Z'
+datePublishedOriginal: '2017-08-02T18:20:28.333Z'
 sourcePath: _posts/2017-08-02-redhook-crit-london-3-wet-and-awesome.md
 url: redhook-crit-london-3-wet-and-awesome/index.html
 _type: Article
