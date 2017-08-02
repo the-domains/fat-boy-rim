@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Thanks for the terrific images Caro, and thanks to all the fast boys and girls
+  Thanks for the terrific images Caro, and thanks to all the fast boys & girls
   who sailed their #FatBoys through the deluge.
-dateModified: '2017-08-02T19:54:27.329Z'
-datePublished: '2017-08-02T19:54:27.850Z'
-title: 'Redhook Crit London #3 - wet & awesome!'
+dateModified: '2017-08-02T19:55:08.923Z'
+datePublished: '2017-08-02T19:55:09.643Z'
+title: 'Redhook Crit London #3 - wet & awesome Part 1'
 author: []
 publisher: {}
 via: {}
@@ -17,11 +17,11 @@ url: redhook-crit-london-3-wet-and-awesome/index.html
 _type: Article
 
 ---
-# Redhook Crit London \#3 - wet & awesome!
+# Redhook Crit London \#3 - wet & awesome Part 1
 
-Thanks for the terrific images [Caro][0], and thanks to all the fast boys and girls who sailed their \#FatBoys through the deluge.
+Thanks for the terrific images [Caro][0], and thanks to all the fast boys & girls who sailed their \#FatBoys through the deluge.
 
-But here's some fun in the sun on the day before the rain came down.
+But here's some fun in the sun - the day before the rain came down.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c595a81-42bc-4e4b-b2ee-9018937c5291.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e381bc6e-5539-48ed-b036-e29b8a5e5a18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa09f7de-cfc6-4280-a283-375264abd5c4.jpg)
