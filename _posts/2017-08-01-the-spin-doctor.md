@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   https://memoirsofanaveragecyclist.blogspot.co.uk/2017/08/the-spin-doctor.html?showComment=1501606514684#c6549520134085478398
 title: The Spin Doctor ....
-datePublished: '2017-08-02T17:56:40.109Z'
-dateModified: '2017-08-02T17:56:37.865Z'
+datePublished: '2017-08-02T20:56:56.873Z'
+dateModified: '2017-08-02T20:56:55.408Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-01-the-spin-doctor.md
