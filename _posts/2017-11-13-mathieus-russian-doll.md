@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-13T19:57:43.652Z'
-datePublished: '2017-11-13T19:57:44.328Z'
+dateModified: '2017-12-18T21:14:06.786Z'
+datePublished: '2017-12-18T21:14:07.436Z'
 title: Mathieu’s Russian Doll
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-13-mathieus-russian-doll.md
 starred: false
 datePublishedOriginal: '2017-11-13T19:57:44.328Z'
-sourcePath: _posts/2017-11-13-mathieus-russian-doll.md
 _type: Blurb
 
 ---
