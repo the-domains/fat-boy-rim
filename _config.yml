@@ -95,7 +95,7 @@ description: >-
 purpose:
   - type: external
     url: 'http://ridefullgas.com/wheels/'
-    label: Shop
+    label: Buy
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
     label: Mail me
