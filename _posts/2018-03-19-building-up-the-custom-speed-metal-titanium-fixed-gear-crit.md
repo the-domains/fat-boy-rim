@@ -12,8 +12,8 @@ app_links: []
 isBasedOnUrl: >-
   https://fixedgearcrit.com/building-up-the-custom-speed-metal-titanium-fixed-gear-crit-bike/
 title: ''
-datePublished: '2018-04-27T15:04:50.384Z'
-dateModified: '2018-04-27T15:04:49.616Z'
+datePublished: '2018-04-27T15:04:55.724Z'
+dateModified: '2018-04-27T15:04:55.143Z'
 via: {}
 inFeed: true
 sourcePath: >-
