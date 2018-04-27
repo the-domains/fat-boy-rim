@@ -37,7 +37,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
 title: Spin On These!  Fast Carbon Bike Wheels
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81612783-eca8-4ea8-9699-0d71e131ca2c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/81612783-eca8-4ea8-9699-0d71e131ca2c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Life's too short to ride dull boring wheels - with Fat Boy Rim you can have it
   all! Effortless speed. Gut wrenching grip. Incredible comfort. Get more wheel
