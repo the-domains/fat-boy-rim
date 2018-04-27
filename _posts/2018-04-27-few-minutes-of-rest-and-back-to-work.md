@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BhupTV5H2HD/?tagged=spinonthese'
 title: few minutes of rest and back to work.
-datePublished: '2018-04-27T14:45:07.279Z'
-dateModified: '2018-04-27T14:44:17.796Z'
-datePublishedOriginal: '2018-04-27T14:45:07.279Z'
+datePublished: '2018-04-27T14:57:12.947Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-27-few-minutes-of-rest-and-back-to-work.md
+starred: false
+datePublishedOriginal: '2018-04-27T14:45:07.279Z'
 _type: Photograph
 _context: 'http://schema.org'
 
