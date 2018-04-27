@@ -3,24 +3,17 @@ author: []
 related: []
 publisher:
   url: 'https://fixedgearcrit.com'
-  name: Fixed Gear Crit
-  favicon: >-
-    https://fixedgearcrit.com/wp-content/uploads/2018/01/cropped-ZwartGroen-192x192.png
+  name: Fixedgearcrit
+  favicon: 'https://fixedgearcrit.com/favicon.ico'
   domain: fixedgearcrit.com
 keywords: []
-description: >-
-  Today we built up our fixed gear crit bike, a Custom Speed Metal titanium.
-  Thanks to our friends at Speed Metal, Spin on These, Rotor, Brooks, and
-  Vittoria for making this build possible. Also a shout out to Feedback Sports
-  for the tools and the Sprint bike standard, super handy and useful.
+description: ''
 app_links: []
 isBasedOnUrl: >-
   https://fixedgearcrit.com/building-up-the-custom-speed-metal-titanium-fixed-gear-crit-bike/
-title: >-
-  Building up the Custom Speed Metal Titanium Fixed Gear Crit bike | Fixed Gear
-  Crit
-datePublished: '2018-04-27T14:57:12.930Z'
-dateModified: '2018-04-27T14:57:11.718Z'
+title: ''
+datePublished: '2018-04-27T15:04:50.384Z'
+dateModified: '2018-04-27T15:04:49.616Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -31,4 +24,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Building up the Custom Speed Metal Titanium Fixed Gear Crit bike | Fixed Gear Crit</h1><p>Today we built up our fixed gear crit bike, a Custom Speed Metal titanium. Thanks to our friends at Speed Metal, Spin on These, Rotor, Brooks, and Vittoria for making this build possible. Also a shout out to Feedback Sports for the tools and the Sprint bike standard, super handy and useful.</p><img src="https://fixedgearcrit.com/wp-content/uploads/2017/12/Groen_zwart.png" /></article>
+![](https://fixedgearcrit.com/wp-content/uploads/2018/03/SpeedMetalFixed_16-03-2018_LeicaMMonochrom_BMP-37-of-37-740x492.jpg)
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9bef2ed3e8be05791080139bb25efd63/noop.png?input=https%3A%2F%2Ffixedgearcrit.com%2Fwp-content%2Fuploads%2F2017%2F12%2FGroen_zwart.png" /><h1>Building up the Custom Speed Metal Titanium Fixed Gear Crit bike | Fixed Gear Crit</h1><p>Today we built up our fixed gear crit bike, a Custom Speed Metal titanium. Thanks to our friends at Speed Metal, Spin on These, Rotor, Brooks, and Vittoria for making this build possible. Also a shout out to Feedback Sports for the tools and the Sprint bike standard, super handy and useful.</p></article>
