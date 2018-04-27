@@ -30,13 +30,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiDCGCllRyz/?tagged=spinonthese'
 title: 'She is ready #cinelli #spinonthese #ergon'
-datePublished: '2018-04-27T14:41:08.056Z'
-dateModified: '2018-04-27T14:41:07.209Z'
-datePublishedOriginal: '2018-04-27T14:41:08.056Z'
+datePublished: '2018-04-27T14:57:12.979Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-27-she-is-ready-cinelli-spinonthese-ergon.md
+starred: false
+datePublishedOriginal: '2018-04-27T14:41:08.056Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
