@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/Bhzlyw2heMz/?saved-by=spinonthese'
 title: >-
   Brian Megens is already in town ahead of #critweek. Prospect Park will be full
   of track cyclists soon. . #redhookcrit #rhcbk11
-datePublished: '2018-04-27T14:57:12.947Z'
-dateModified: '2018-04-27T14:57:11.718Z'
+datePublished: '2018-04-27T15:13:13.660Z'
+dateModified: '2018-04-27T15:13:13.184Z'
 description: ''
 via: {}
 inFeed: true
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Brian Megens is already in town ahead of #critweek. Prospect Park will be full of track cyclists soon. . #redhookcrit #rhcbk11](https://scontent-iad3-1.cdninstagram.com/vp/e72b5b99130ae64b5f78e31816354c75/5B9473BB/t51.2885-15/e35/30602355_363872507442578_1667102310540509184_n.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/333c15066bcb1f0042edc1695c31d5b9/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2Fe72b5b99130ae64b5f78e31816354c75%2F5B9473BB%2Ft51.2885-15%2Fe35%2F30602355_363872507442578_1667102310540509184_n.jpg)
