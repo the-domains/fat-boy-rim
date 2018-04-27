@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BgHcZNIjv2l/?saved-by=spinonthese'
 title: "What will our new kit and bike look like? \uD83E\uDD14"
-datePublished: '2018-04-27T14:48:00.278Z'
-dateModified: '2018-04-27T14:47:31.328Z'
-datePublishedOriginal: '2018-04-27T14:48:00.278Z'
+datePublished: '2018-04-27T14:57:12.967Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-27-what-will-our-new-kit-and-bike-look-like.md
+starred: false
+datePublishedOriginal: '2018-04-27T14:48:00.278Z'
 _type: Photograph
 _context: 'http://schema.org'
 
