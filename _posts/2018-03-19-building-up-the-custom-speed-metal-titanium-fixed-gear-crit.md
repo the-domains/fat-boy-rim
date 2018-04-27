@@ -19,14 +19,14 @@ isBasedOnUrl: >-
 title: >-
   Building up the Custom Speed Metal Titanium Fixed Gear Crit bike | Fixed Gear
   Crit
-datePublished: '2018-03-19T13:47:06.703Z'
-dateModified: '2018-03-19T13:46:52.825Z'
-datePublishedOriginal: '2018-03-19T13:47:06.703Z'
+datePublished: '2018-04-27T14:57:12.930Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-03-19-building-up-the-custom-speed-metal-titanium-fixed-gear-crit.md
+starred: false
+datePublishedOriginal: '2018-03-19T13:47:06.703Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
