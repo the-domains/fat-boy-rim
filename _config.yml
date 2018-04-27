@@ -75,7 +75,6 @@ content:
         Dave and I are lucky enough to live between the moors and the sea so we
         went for a pedal in our backyard, Dartmoor. NEW VIDEOS EVERY FRIDAY.
         PLEASE SUBSCRIBE, it really helps !
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=vIn0fmwpr98&feature=applinks'
@@ -117,6 +116,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://youtu.be/vIn0fmwpr98'
       title: 'Hinterlands | A fixed gear cycling film shot in Dartmoor, UK'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1239059d-d25e-4768-abee-3f863f76df39.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1239059d-d25e-4768-abee-3f863f76df39.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
