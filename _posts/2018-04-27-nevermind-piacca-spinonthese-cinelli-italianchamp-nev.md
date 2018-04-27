@@ -12,24 +12,24 @@ publisher:
 keywords: []
 app_links:
   - url: 'instagram://media?id=1737926177530426625'
-    type: ios
     namespace: ai
+    type: ios
     app_name: Instagram
     app_store_id: '389801252'
   - url: 'https://www.instagram.com/p/BgeWqaJjbUB/'
-    type: android
     namespace: ai
+    type: android
     app_name: Instagram
     package: com.instagram.android
   - path: https/instagram.com/p/BgeWqaJjbUB/
-    package: com.instagram.android
-    namespace: google
     type: android
+    namespace: google
+    package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/BgeWqaJjbUB/?saved-by=spinonthese'
 title: "Nevermind \uD83D\uDCF7@piacca #spinonthese #cinelli #italianchamp #nevergiveup #fixed #fixie #ergonbike #ergon #WeRideInAllWeather #LookGoodRideFast #NeverloseYourGrip #ChosenByChampions #Sockdoping @gripgrab"
-datePublished: '2018-04-27T14:48:32.088Z'
-dateModified: '2018-04-27T14:48:25.683Z'
-datePublishedOriginal: '2018-04-27T14:48:32.088Z'
+datePublished: '2018-04-27T14:48:41.216Z'
+dateModified: '2018-04-27T14:48:31.267Z'
+datePublishedOriginal: '2018-04-27T14:48:41.216Z'
 description: ''
 via: {}
 inFeed: true
