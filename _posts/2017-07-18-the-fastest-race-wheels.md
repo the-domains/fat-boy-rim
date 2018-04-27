@@ -76,8 +76,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/QJUL4KEeGW8'
 title: THE FASTEST RACE WHEELS?
-datePublished: '2017-08-02T20:56:56.870Z'
-dateModified: '2017-08-02T20:56:55.408Z'
+datePublished: '2018-04-27T14:57:12.965Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-18-the-fastest-race-wheels.md
