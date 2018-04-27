@@ -66,14 +66,14 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/vIn0fmwpr98'
 title: 'Hinterlands | A fixed gear cycling film shot in Dartmoor, UK'
-datePublished: '2017-12-07T09:56:34.951Z'
-dateModified: '2017-12-07T09:56:24.929Z'
-datePublishedOriginal: '2017-12-07T09:56:34.951Z'
+datePublished: '2018-04-27T14:57:12.927Z'
+dateModified: '2018-04-27T14:57:11.718Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-12-07-hinterlands-or-a-fixed-gear-cycling-film-shot-in-dartmoor-uk.md
+starred: false
+datePublishedOriginal: '2017-12-07T09:56:34.951Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
