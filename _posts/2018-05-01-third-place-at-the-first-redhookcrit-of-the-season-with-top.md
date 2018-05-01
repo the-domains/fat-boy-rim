@@ -27,17 +27,17 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiMw1aRBjp1/?taken-by=gomarrun'
 title: "Third place at the first @redhookcrit of the season with Top Antagoniste Prime. I think that was a great first week-end in New York City... \uD83D\uDE48 It will not have been possible without my team mate @ainaraelbu who help me to make dance this peloton until her fall. Zaindu neska ! \uD83D\uDE18 Thanks @santafixie_blb_team and all our sponsor to give me the opportunity to cross the ocean ! @santafixie @bricklanebikes @spinonthese @arrueda @ride100percent @abus2ruedas @abus_cycling @sellesanmarco @rideabikes @spray.bike . \uD83D\uDCF8@quiquebuenocc \uD83D\uDE18 . #redhook #redhookcriterium #Brooklyn #bike #trackbike #fixedgear #igerscycling #bikelovers #cycling #cyclinglife #roadlikethese #cyclingpics #sportpicture #road #bikeride #rideyourbike #santafixie #santafixieblbteam #abushelmets #cyclingshot #fixierider #strava #stravacyling #stravabike #girlwhoride #collagedegommettes #bikelife #fixie #fixed #spinonthis"
-datePublished: '2018-05-01T17:32:00.929Z'
-dateModified: '2018-05-01T17:31:44.807Z'
-datePublishedOriginal: '2018-05-01T17:32:00.929Z'
+datePublished: '2018-05-01T18:55:33.855Z'
+dateModified: '2018-05-01T18:55:33.291Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-01-third-place-at-the-first-redhookcrit-of-the-season-with-top.md
+starred: false
+datePublishedOriginal: '2018-05-01T17:32:00.929Z'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Third place at the first @redhookcrit of the season with Top Antagoniste Prime. I think that was a great first week-end in New York City...  It will not have been possible without my team mate @ainaraelbu who help me to make dance this peloton until her fall. Zaindu neska !  Thanks @santafixie_blb_team and all our sponsor to give me the opportunity to cross the ocean ! @santafixie @bricklanebikes @spinonthese @arrueda @ride100percent @abus2ruedas @abus_cycling @sellesanmarco @rideabikes @spray.bike . @quiquebuenocc  . #redhook #redhookcriterium #Brooklyn #bike #trackbike #fixedgear #igerscycling #bikelovers #cycling #cyclinglife #roadlikethese #cyclingpics #sportpicture #road #bikeride #rideyourbike #santafixie #santafixieblbteam #abushelmets #cyclingshot #fixierider #strava #stravacyling #stravabike #girlwhoride #collagedegommettes #bikelife #fixie #fixed #spinonthis](https://scontent-iad3-1.cdninstagram.com/vp/f8b912783b7c8865077a2d34608ad580/5B8176EA/t51.2885-15/e35/30894181_2008359446149964_7432935488392003584_n.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2f098a2d2345df54d76698261cd0bce3/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2Ff8b912783b7c8865077a2d34608ad580%2F5B8176EA%2Ft51.2885-15%2Fe35%2F30894181_2008359446149964_7432935488392003584_n.jpg)
