@@ -33,16 +33,16 @@ title: >-
   #roadtoredhook #fixedgear #scattofisso #cycling #trackbike #trackcycling
   #savethetrackbike #fixedcrit #critracing #bikeracing #bikeporn #bikes #gym
   #fitness #workout #newyork #redhookcrit #rhcbk11
-datePublished: '2018-05-01T19:10:19.937Z'
-dateModified: '2018-05-01T19:09:51.049Z'
-datePublishedOriginal: '2018-05-01T19:10:19.937Z'
+datePublished: '2018-05-01T19:11:02.433Z'
+dateModified: '2018-05-01T19:11:01.703Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-01-ring-ring-new-form-who-dis-by-my-friend-nils_la.md
+starred: false
+datePublishedOriginal: '2018-05-01T19:10:19.937Z'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Ring, ring! &bdquo;New form! Who dis?" . . . By my friend @nils_laengner . . . #fixedpott #sapim #sapimspokes #reclaimthestreets #iriedaily #gloryfy #abushelmets #standertbicycles #ridebiehler #lifeisaride #fizik #spinonthese #roadtoredhook #fixedgear #scattofisso #cycling #trackbike #trackcycling #savethetrackbike #fixedcrit #critracing #bikeracing #bikeporn #bikes #gym #fitness #workout #newyork #redhookcrit #rhcbk11](https://scontent-iad3-1.cdninstagram.com/vp/22acc5531cd62dec0cf3fa488bb0e865/5B7AE1D8/t51.2885-15/e35/30605034_157307851773286_2881744307667075072_n.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/157777007e58c8b9e616f8919c34e123/croprotate.jpg?cropheight=681&cropwidth=1080&degrees=0&input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2F22acc5531cd62dec0cf3fa488bb0e865%2F5B7AE1D8%2Ft51.2885-15%2Fe35%2F30605034_157307851773286_2881744307667075072_n.jpg&x=0&y=201)
