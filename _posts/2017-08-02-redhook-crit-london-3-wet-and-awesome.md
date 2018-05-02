@@ -2,10 +2,11 @@
 inFeed: true
 description: >-
   Thanks to all the fast boys & girls who sailed their #FatBoys through the
-  deluge on race day. But here’s some fun in the sun - the day before the rain
-  came down. Click through the link for more terrific images from Caro 
-dateModified: '2018-05-02T16:13:18.163Z'
-datePublished: '2018-05-02T16:13:19.288Z'
+  deluge on race day. But here’s some fun in the sun kicking off at Herne Hill
+  the day before the rain came to town. Click through for more terrific images
+  from Caro  
+dateModified: '2018-05-02T16:14:06.928Z'
+datePublished: '2018-05-02T16:14:08.497Z'
 title: 'Redhook Crit London #3 '
 author: []
 publisher: {}
@@ -20,7 +21,7 @@ _type: Article
 ---
 # Redhook Crit London \#3 
 
-Thanks to all the fast boys & girls who sailed their \#FatBoys through the deluge on race day. But here's some fun in the sun - the day before the rain came down. Click through the link for more terrific images from [Caro ][0]
+Thanks to all the fast boys & girls who sailed their \#FatBoys through the deluge on race day. But here's some fun in the sun kicking off at Herne Hill the day before the rain came to town. Click through for more terrific images from [Caro ][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c595a81-42bc-4e4b-b2ee-9018937c5291.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e381bc6e-5539-48ed-b036-e29b8a5e5a18.jpg)
 
