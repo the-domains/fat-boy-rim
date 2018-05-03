@@ -3,16 +3,18 @@ inFeed: true
 description: >-
   One of the questions we get asked most often is “will your wheels fit my
   bike?” 
-dateModified: '2017-08-01T14:51:22.055Z'
-datePublished: '2017-08-01T14:51:22.670Z'
+dateModified: '2018-05-03T11:13:24.615Z'
+datePublished: '2018-05-03T11:13:25.442Z'
 title: Will these Fat Boys fit my bike?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-01-will-these-fatboys-fit-my-bike.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-01T14:35:51.163Z'
-_type: Blurb
+url: will-these-fat-boys-fit-my-bike/index.html
+_type: Article
 
 ---
 # Will these Fat Boys fit my bike?
