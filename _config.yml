@@ -28,9 +28,6 @@ navigation:
   - name: Meet the Fat Boys
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
-  - name: Custom Speed Metal
-    url: 'http://speedmetal.bike'
-    type: external
   - name: Spinstagram
     url: 'https://www.instagram.com/spinonthese/'
     type: external
