@@ -28,9 +28,6 @@ navigation:
   - name: Meet the Fat Boys
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
-  - name: Spinstagram
-    url: 'https://www.instagram.com/spinonthese/'
-    type: external
   - name: 'Will those #FatBoys fit my bike?'
     id: c6f47da0-9a59-49ca-9fe2-85a830be26a1
     type: content
