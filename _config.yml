@@ -37,6 +37,9 @@ navigation:
   - name: 'Will the #FatBoys fit my bike?'
     id: c6f47da0-9a59-49ca-9fe2-85a830be26a1
     type: content
+  - name: How to go tubeless
+    id: afd169d9-30af-4e0e-9f53-87ea8e6f022a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
 title: Spin On These!  Fast Carbon Bike Wheels
