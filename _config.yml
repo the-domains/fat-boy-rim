@@ -37,6 +37,9 @@ navigation:
   - name: Speed Metal Custom bikes
     url: 'http://speedmetal.bike'
     type: external
+  - name: Spin On Instagram
+    url: 'https://www.instagram.com/spinonthese/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
 title: Spin On These!  Fast Carbon Bike Wheels
