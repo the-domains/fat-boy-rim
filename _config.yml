@@ -34,7 +34,7 @@ navigation:
   - name: Spinstagram
     url: 'https://www.instagram.com/spinonthese/'
     type: external
-  - name: 'Do #FatBoys fit my bike?'
+  - name: 'Will #FatBoys fit my bike?'
     id: c6f47da0-9a59-49ca-9fe2-85a830be26a1
     type: content
   - name: How to go tubeless
