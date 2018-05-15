@@ -20,7 +20,7 @@ author:
   url: 'http://ridefullgas.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf679bd1-13d8-4cf9-8f3f-46027c991a47.png
-name: '#SpinOnThese Fast Carbon Wheels'
+name: 'SpinOnThese #FatBoys'
 navigation:
   - name: Speed Shop
     url: 'http://ridefullgas.com/'
@@ -69,10 +69,10 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  Life's too short to waste it riding dull boring wheels. But with Fat Boy Rim
-  you get it all: Effortless speed. Gut wrenching grip. Incredible comfort. Our
-  Fat Boy super wide aero profiles deliver more speed & more smiles for your
-  cash. Every pair is precision crafted by me with just one rider in mind: You! 
+  Life's too short to waste riding dull boring wheels. With Fat Boy Rim you get
+  it all: Effortless speed. Gut wrenching grip. Incredible comfort. Our Fat Boy
+  super wide aero profiles deliver more speed & more smiles for your cash. Every
+  pair is precision crafted by me with just one rider in mind: You! 
 purpose:
   - type: external
     url: 'http://ridefullgas.com/wheels/'
