@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BgHcZNIjv2l/?saved-by=spinonthese'
 title: "What will our new kit and bike look like? \uD83E\uDD14"
-datePublished: '2018-04-27T14:57:12.967Z'
-dateModified: '2018-04-27T14:57:11.718Z'
+datePublished: '2018-05-16T15:09:31.204Z'
+dateModified: '2018-05-16T15:09:29.250Z'
 description: ''
 via: {}
 inFeed: true
