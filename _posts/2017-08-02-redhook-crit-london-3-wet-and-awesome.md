@@ -4,10 +4,10 @@ description: >-
   Thanks to all the fast boys & girls who sailed their #FatBoys through the
   deluge on race day. But here’s some fun in the sun kicking off at Herne Hill
   the day before the rain came to town. Click through for more terrific images
-  from Caro 
-dateModified: '2018-05-16T15:09:29.250Z'
-datePublished: '2018-05-16T15:09:31.207Z'
-title: 'Redhook Crit London #3 '
+  from Caro
+dateModified: '2018-05-16T16:56:56.567Z'
+datePublished: '2018-05-16T16:56:57.644Z'
+title: 'Redhook Crit London #3'
 author: []
 publisher: {}
 via: {}
@@ -19,14 +19,14 @@ url: redhook-crit-london-3-wet-and-awesome/index.html
 _type: Article
 
 ---
-# Redhook Crit London \#3 
+# Redhook Crit London \#3
 
-Thanks to all the fast boys & girls who sailed their \#FatBoys through the deluge on race day. But here's some fun in the sun kicking off at Herne Hill the day before the rain came to town. Click through for more terrific images from [Caro ][0]
+Thanks to all the fast boys & girls who sailed their \#FatBoys through the deluge on race day. But here's some fun in the sun kicking off at Herne Hill the day before the rain came to town. Click through for more terrific images from [Caro][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c595a81-42bc-4e4b-b2ee-9018937c5291.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e381bc6e-5539-48ed-b036-e29b8a5e5a18.jpg)
 
 ---
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e381bc6e-5539-48ed-b036-e29b8a5e5a18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de09bb9c-20e7-47c8-9e23-7f1bed6b1de9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71e66412-5f7a-402b-b308-1a06ebb41cd3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c517e84-5598-4b50-b741-24c12e351d01.jpg)
