@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BgeWqaJjbUB/?saved-by=spinonthese'
 title: "Nevermind \uD83D\uDCF7@piacca #spinonthese #cinelli #italianchamp #nevergiveup #fixed #fixie #ergonbike #ergon #WeRideInAllWeather #LookGoodRideFast #NeverloseYourGrip #ChosenByChampions #Sockdoping @gripgrab"
-datePublished: '2018-04-27T14:57:12.908Z'
-dateModified: '2018-04-27T14:57:11.718Z'
+datePublished: '2018-05-16T15:09:31.237Z'
+dateModified: '2018-05-16T15:09:29.250Z'
 description: ''
 via: {}
 inFeed: true
