@@ -5,8 +5,8 @@ description: >-
   deluge on race day. But here’s some fun in the sun kicking off at Herne Hill
   the day before the rain came to town. Click through for more terrific images
   from Caro
-dateModified: '2018-05-17T18:26:21.350Z'
-datePublished: '2018-05-17T18:26:22.709Z'
+dateModified: '2018-05-17T18:31:54.467Z'
+datePublished: '2018-05-17T18:31:57.544Z'
 title: 'Redhook Crit London #3'
 author: []
 publisher: {}
