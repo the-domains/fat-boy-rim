@@ -51,16 +51,18 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/asNZJf3WL84'
-title: Final lap onboard - RHC Brooklyn No.11
-datePublished: '2018-05-02T17:49:43.690Z'
-dateModified: '2018-05-02T17:49:29.063Z'
-datePublishedOriginal: '2018-05-02T17:49:43.690Z'
+title: 'Ride round Brooklyn with Margaux and her #FatBoys'
+datePublished: '2018-05-17T22:17:28.260Z'
+dateModified: '2018-05-17T22:17:27.693Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-02-final-lap-onboard-rhc-brooklyn-no11.md
+starred: false
+datePublishedOriginal: '2018-05-02T17:49:43.690Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+# Ride round Brooklyn with Margaux and her \#FatBoys
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FasNZJf3WL84&amp;src_secure=1&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DasNZJf3WL84&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FasNZJf3WL84%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
