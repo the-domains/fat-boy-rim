@@ -31,8 +31,8 @@ title: >-
   experienced in fixed gear crits and in our opinion strong underdogs for the
   race win . Addison Zawada Alec Briggs David Santos Jesus Alberto Carla Nafria
   Virginia Cancellieri Margaux Vigie . #redhookcrit #rhcbk11 #underdogs
-datePublished: '2018-05-17T18:26:22.668Z'
-dateModified: '2018-05-17T18:26:21.350Z'
+datePublished: '2018-05-17T18:31:57.456Z'
+dateModified: '2018-05-17T18:31:54.467Z'
 description: ''
 via: {}
 inFeed: true
