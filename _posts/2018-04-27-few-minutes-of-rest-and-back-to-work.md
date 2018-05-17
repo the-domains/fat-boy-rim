@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BhupTV5H2HD/?tagged=spinonthese'
 title: few minutes of rest and back to work.
-datePublished: '2018-05-17T18:26:22.647Z'
-dateModified: '2018-05-17T18:26:21.350Z'
+datePublished: '2018-05-17T18:31:57.533Z'
+dateModified: '2018-05-17T18:31:54.467Z'
 description: ''
 via: {}
 inFeed: true
