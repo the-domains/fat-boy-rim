@@ -4,8 +4,8 @@ description: >-
   We thought it would be fun to check in with our old pal Simon who manages to
   get faster and faster (seemingly without any effort) to see if he was prepared
   to spill the beans on how he manages it all.
-dateModified: '2018-05-17T18:50:15.777Z'
-datePublished: '2018-05-17T18:50:17.763Z'
+dateModified: '2018-06-04T19:02:47.330Z'
+datePublished: '2018-06-04T19:02:48.953Z'
 title: What AG triathlete extraordinaire Simon Gill did next…
 author: []
 publisher: {}
