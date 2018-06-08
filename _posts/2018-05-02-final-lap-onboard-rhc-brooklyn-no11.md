@@ -52,8 +52,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/asNZJf3WL84'
 title: 'Ride round Brooklyn with Margaux and her #FatBoys'
-datePublished: '2018-05-17T22:17:28.260Z'
-dateModified: '2018-05-17T22:17:27.693Z'
+datePublished: '2018-06-08T14:18:00.547Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-02-final-lap-onboard-rhc-brooklyn-no11.md
