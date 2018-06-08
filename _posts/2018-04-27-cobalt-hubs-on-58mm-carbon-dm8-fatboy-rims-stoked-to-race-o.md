@@ -27,15 +27,15 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bhwb6d1BwOV/?taken-by=julietelliott'
 title: "Cobalt hubs on 58mm carbon DM8 Fatboy rims. Stoked to race on these next week at @redhookcrit. Thank you SO MUCH @spinonthese \uD83D\uDE04"
-datePublished: '2018-04-27T18:03:25.304Z'
-dateModified: '2018-04-27T18:02:49.573Z'
-datePublishedOriginal: '2018-04-27T18:03:25.304Z'
+datePublished: '2018-06-08T14:18:00.580Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-04-27-cobalt-hubs-on-58mm-carbon-dm8-fatboy-rims-stoked-to-race-o.md
+starred: false
+datePublishedOriginal: '2018-04-27T18:03:25.304Z'
 _type: Photograph
 _context: 'http://schema.org'
 
