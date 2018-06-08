@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/31h4F5V6Q18'
 title: My Scariest Crash Yet | Red Hook Crit Brooklyn
-datePublished: '2018-04-30T17:00:55.377Z'
-dateModified: '2018-04-30T17:00:30.134Z'
-datePublishedOriginal: '2018-04-30T17:00:55.377Z'
+datePublished: '2018-06-08T14:18:00.572Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-30-my-scariest-crash-yet-or-red-hook-crit-brooklyn.md
+starred: false
+datePublishedOriginal: '2018-04-30T17:00:55.377Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
