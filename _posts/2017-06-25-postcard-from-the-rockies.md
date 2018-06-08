@@ -16,8 +16,8 @@ description: >-
   Have a great summer!
 
   Bob
-dateModified: '2017-06-25T20:19:38.986Z'
-datePublished: '2017-06-25T20:19:40.386Z'
+dateModified: '2018-06-08T14:17:57.182Z'
+datePublished: '2018-06-08T14:18:00.584Z'
 title: Postcard from the Rockies
 author:
   - name: Bob Brese
