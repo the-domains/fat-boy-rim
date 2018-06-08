@@ -67,13 +67,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/BbXthACeGJE'
 title: RHC Warm Up | Meet my custom carbon crit bike
-datePublished: '2018-04-30T16:45:42.672Z'
-dateModified: '2018-04-30T16:45:14.864Z'
-datePublishedOriginal: '2018-04-30T16:45:42.672Z'
+datePublished: '2018-06-08T14:18:00.549Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-30-rhc-warm-up-or-meet-my-custom-carbon-crit-bike.md
+starred: false
+datePublishedOriginal: '2018-04-30T16:45:42.672Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
