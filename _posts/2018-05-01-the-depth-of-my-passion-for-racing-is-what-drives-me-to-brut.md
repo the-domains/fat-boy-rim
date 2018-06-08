@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiNSi73ByFL/?taken-by=julietelliott'
 title: "The depth of my passion for racing is what drives me to brutalise myself in training, sacrifice nights (and days) out, push myself beyond what I ever thought possible, suffer and battle on when I'm out of my depth and take risks that might not make sense to those outside the sport. At this weekend's @redhookcrit I actually cried. Check out my new video (link in profile) to find out what went down (me) on Saturday. Photo: @olamorken \uD83D\uDE4F"
-datePublished: '2018-05-01T18:56:05.934Z'
-dateModified: '2018-05-01T18:56:05.321Z'
+datePublished: '2018-06-08T14:18:00.548Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
