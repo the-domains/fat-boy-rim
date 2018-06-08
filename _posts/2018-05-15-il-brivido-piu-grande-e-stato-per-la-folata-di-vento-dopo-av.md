@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiwdBhPBFzA/?taken-by=giorgialolafraie'
 title: 'Thanks for riding Champ! #spinonthese #winonthese'
-datePublished: '2018-05-17T22:14:20.050Z'
-dateModified: '2018-05-17T22:14:19.350Z'
+datePublished: '2018-06-08T14:18:00.551Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
