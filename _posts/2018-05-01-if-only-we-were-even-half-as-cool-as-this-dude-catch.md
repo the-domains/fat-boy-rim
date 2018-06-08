@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bg_08Xwl9tP/?taken-by=spinonthese'
 title: "If only we were even half as cool as this dude! \uD83D\uDE4C . . Catch Eike @louielooping and lots more fast boys n girls in full #critlean mode at next week's @nlcritseries opener! \uD83D\uDEB4\uD83C\uDF2B️ . . Oh yeah... Don't forget you can win yourslf cool @spinonthese bikestuff at every single NL Crit this season. Just #winonthese and you'll #SpinOnThese for sure! \uD83D\uDE00 . . #FatBoys"
-datePublished: '2018-05-01T14:22:37.889Z'
-dateModified: '2018-05-01T14:22:29.072Z'
-datePublishedOriginal: '2018-05-01T14:22:37.889Z'
+datePublished: '2018-06-08T14:18:00.551Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-01-if-only-we-were-even-half-as-cool-as-this-dude-catch.md
+starred: false
+datePublishedOriginal: '2018-05-01T14:22:37.889Z'
 _type: Photograph
 _context: 'http://schema.org'
 
