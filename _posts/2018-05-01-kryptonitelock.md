@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiK89VXlzUg/?taken-by=paoladolly'
 title: "@kryptonitelock \uD83D\uDCAA\uD83C\uDFFB\uD83D\uDC4A\uD83C\uDFFB"
-datePublished: '2018-05-01T17:46:45.614Z'
-dateModified: '2018-05-01T17:46:44.998Z'
+datePublished: '2018-06-08T14:18:00.550Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
