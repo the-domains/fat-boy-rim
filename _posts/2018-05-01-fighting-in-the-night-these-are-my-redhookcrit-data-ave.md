@@ -35,8 +35,8 @@ title: >-
   @wamiwater @allareas_official @kappa_official @tcargobike @renord1970
   @rosti.it @briko.official @suplestshoes @spinonthese @sellesanmarco @sramroad
   @zippspeed @hutchinsontires @casbahcicloclub
-datePublished: '2018-05-01T18:56:41.866Z'
-dateModified: '2018-05-01T18:56:40.734Z'
+datePublished: '2018-06-08T14:18:00.550Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
