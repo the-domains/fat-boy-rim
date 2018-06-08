@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BWYGxjnDNiE/?r=wa1'
 title: "What's next? \uD83D\uDE0F\uD83D\uDCB8\uD83D\uDEB2 #dosnoventa #fixedgear"
-datePublished: '2017-07-11T12:00:05.429Z'
-dateModified: '2017-07-11T11:59:53.424Z'
-datePublishedOriginal: '2017-07-11T12:00:05.429Z'
+datePublished: '2018-06-08T14:18:00.580Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-11-whats-next-dosnoventa-fixedgear.md
+starred: false
+datePublishedOriginal: '2017-07-11T12:00:05.429Z'
 _type: Photograph
 _context: 'http://schema.org'
 
