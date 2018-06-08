@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   https://bikes-n-stuff.com/my-short-lived-custom-carbon-track-bike/#comment-6771
 title: My (Short Lived) Custom Carbon Track Bike - Bikes 'N' Stuff
-datePublished: '2018-05-02T14:23:13.233Z'
-dateModified: '2018-05-02T14:22:51.519Z'
-datePublishedOriginal: '2018-05-02T14:23:13.233Z'
+datePublished: '2018-06-08T14:18:00.548Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-02-my-short-lived-custom-carbon-track-bike-bikes-n-stuff.md
+starred: false
+datePublishedOriginal: '2018-05-02T14:23:13.233Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
