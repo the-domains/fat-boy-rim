@@ -32,14 +32,14 @@ title: >-
   hanno qualcosa di magico. Ci sono posti, luoghi, spazi che profumano di
   libertà, puzzano di sudore, suonano di felicità. Herne Hill Velodrome é uno di
   quelli. #staytrue
-datePublished: '2017-08-14T14:20:25.130Z'
-dateModified: '2017-08-14T14:19:56.832Z'
-datePublishedOriginal: '2017-08-14T14:20:25.130Z'
+datePublished: '2018-06-08T14:18:00.573Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-14-ci-sono-posti-luoghi-spazi-in-cui-non-puoi-non-andare-ci.md
+starred: false
+datePublishedOriginal: '2017-08-14T14:20:25.130Z'
 _type: Photograph
 _context: 'http://schema.org'
 
