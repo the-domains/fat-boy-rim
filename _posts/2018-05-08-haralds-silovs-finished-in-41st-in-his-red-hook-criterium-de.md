@@ -30,15 +30,15 @@ title: >-
   Haralds Silovs finished in 41st in his Red Hook Criterium debut and the top
   rookie in the men's field. After all the speculation this Latvian speed skater
   emerged as the best of the newcomers. #redhookcrit #rhcbk11 . ph: @tornanti_cc
-datePublished: '2018-05-08T21:26:21.566Z'
-dateModified: '2018-05-08T21:25:38.949Z'
-datePublishedOriginal: '2018-05-08T21:26:21.566Z'
+datePublished: '2018-06-08T14:18:00.502Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-08-haralds-silovs-finished-in-41st-in-his-red-hook-criterium-de.md
+starred: false
+datePublishedOriginal: '2018-05-08T21:26:21.566Z'
 _type: Photograph
 _context: 'http://schema.org'
 
