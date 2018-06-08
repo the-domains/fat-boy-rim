@@ -59,13 +59,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MlGS0mfd2F0'
 title: RED HOOK BROOKLYN 2018
-datePublished: '2018-05-02T18:08:55.449Z'
-dateModified: '2018-05-02T18:08:32.840Z'
-datePublishedOriginal: '2018-05-02T18:08:55.449Z'
+datePublished: '2018-06-08T14:18:00.522Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-02-red-hook-brooklyn-2018.md
+starred: false
+datePublishedOriginal: '2018-05-02T18:08:55.449Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
