@@ -66,8 +66,8 @@ app_links:
     namespace: google
     type: ios
 title: My Fixed Gear crit race set up inc. How to set up tubeless tyres
-datePublished: '2018-05-09T14:57:04.082Z'
-dateModified: '2018-05-09T14:57:03.055Z'
+datePublished: '2018-06-08T14:18:00.586Z'
+dateModified: '2018-06-08T14:17:57.182Z'
 via: {}
 inFeed: true
 sourcePath: >-
