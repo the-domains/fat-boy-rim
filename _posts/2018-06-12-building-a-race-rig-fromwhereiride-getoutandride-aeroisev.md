@@ -29,14 +29,14 @@ isBasedOnUrl: 'https://www.instagram.com/p/BjlwkK-hcG9/?saved-by=spinonthese'
 title: >-
   Building a race rig #fromwhereiride #getoutandride #aeroiseverything #roadporn
   #cyclingporn #spinonthese #fatboys #iamspecialized
-datePublished: '2018-06-12T11:33:49.812Z'
-dateModified: '2018-06-12T11:33:39.482Z'
-datePublishedOriginal: '2018-06-12T11:33:49.812Z'
+datePublished: '2018-06-13T19:45:44.716Z'
+dateModified: '2018-06-13T19:45:44.179Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-12-building-a-race-rig-fromwhereiride-getoutandride-aeroisev.md
+starred: false
+datePublishedOriginal: '2018-06-12T11:33:49.812Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
