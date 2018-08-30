@@ -64,13 +64,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/nOsBMwDWiXE'
 title: 'Revolution''s in the air. Spin On These: Episode 1'
-datePublished: '2018-08-29T12:11:47.951Z'
-dateModified: '2018-08-29T12:11:41.922Z'
-datePublishedOriginal: '2018-08-29T12:11:47.951Z'
+datePublished: '2018-08-30T19:12:57.173Z'
+dateModified: '2018-08-30T19:12:56.426Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-08-29-revolutions-in-the-air-spin-on-these-episode-1.md
+starred: false
+datePublishedOriginal: '2018-08-29T12:11:47.951Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
