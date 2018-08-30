@@ -71,13 +71,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/8ZEuu-h5qFo'
 title: 'How To: Fit Clincher Tyres (bare hands) | SOT Ep 2'
-datePublished: '2018-08-28T19:39:52.818Z'
-dateModified: '2018-08-28T19:39:32.773Z'
-datePublishedOriginal: '2018-08-28T19:39:52.818Z'
+datePublished: '2018-08-30T19:13:49.383Z'
+dateModified: '2018-08-30T19:13:48.694Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-08-28-how-to-fit-clincher-tyres-bare-hands-or-sot-ep-2.md
+starred: false
+datePublishedOriginal: '2018-08-28T19:39:52.818Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
