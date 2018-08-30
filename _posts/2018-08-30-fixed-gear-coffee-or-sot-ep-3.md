@@ -69,13 +69,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-8LKUtKng1I'
 title: Fixed Gear Coffee! | SOT Ep 3
-datePublished: '2018-08-30T19:01:37.181Z'
-dateModified: '2018-08-30T19:01:04.439Z'
-datePublishedOriginal: '2018-08-30T19:01:37.181Z'
+datePublished: '2018-08-30T19:13:22.288Z'
+dateModified: '2018-08-30T19:13:21.676Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-08-30-fixed-gear-coffee-or-sot-ep-3.md
+starred: false
+datePublishedOriginal: '2018-08-30T19:01:37.181Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
