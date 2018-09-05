@@ -20,7 +20,7 @@ author:
   url: 'http://ridefullgas.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf679bd1-13d8-4cf9-8f3f-46027c991a47.png
-name: 'SpinOnThese #FatBoys'
+name: Spin On These Wheels
 navigation:
   - name: Speed Shop
     url: 'http://ridefullgas.com/'
@@ -28,7 +28,7 @@ navigation:
   - name: Meet the Fat Boys
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
     type: content
-  - name: 'Will the #FatBoys fit my bike?'
+  - name: Will Fat Boys fit my bike?
     id: c6f47da0-9a59-49ca-9fe2-85a830be26a1
     type: content
   - name: Tubeless made easy
