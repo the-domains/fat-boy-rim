@@ -46,7 +46,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e082c2a7-07dd-42b3-bcb7-0f0bdae77010.png
 title: Spin On These Fast Carbon Wheels
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76d14b28-fba4-43ab-bb67-1e6938b2a57d.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/76d14b28-fba4-43ab-bb67-1e6938b2a57d.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   ...because life's too short for slow boring bikes, uncomfortable rides and
   zero grip. Spin on these Fat Boys instead and upgrade your ride to effortless
