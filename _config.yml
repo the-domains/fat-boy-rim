@@ -1,9 +1,10 @@
-typography_spectrum: 0.06656237901824683
+layout_spectrum: 0.3179037058858736
+typography_spectrum: 0.7722747598353331
 color:
-  brandStrength: 0.48845408566886245
-  lightness: 0.003075812968637536
-  saturation: 0.17862286840150557
-  rhythmicContrast: 0.3286547439240177
+  brandStrength: 0.3576608966694831
+  lightness: 0.6684332463188595
+  saturation: 0.1439777610068311
+  rhythmicContrast: 0.5670340883374068
   brandColors:
     - '#050505'
     - '#373739'
@@ -11,7 +12,6 @@ color:
     - '#6E6E6E'
     - '#D7D7D7'
 github: true
-layout_spectrum: 0.37582264471882126
 analytics:
   google: UA-31654273-3
 author:
@@ -45,7 +45,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bed6f34-0ec8-4087-89ab-c5ae2c9a909f.png
-title: Spin On These Fast Carbon Wheels
+title: Spin On These Fast Carbon Bike Wheels
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
