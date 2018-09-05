@@ -88,7 +88,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -99,18 +98,19 @@ content:
 description: >-
   ...because life's too short for slow boring bikes, uncomfortable rides and
   zero grip. Spin on these Fat Boys instead and upgrade your ride to effortless
-  speed, gut wrenching adhesion in all weathers and truly sublime comfort over
-  any type of surface. But there's more to these Fat Boys and the people who
-  make 'em. You see, every wheel is precision hand crafted in the UK
-  specifically for just one rider - that's You! That means wheels uniquely
-  engineered with your requirements in mind that deliver the ride of your life.
-  Then there's our Maker to Rider Direct pricing which means you're never paying
-  extra for other dudes to get in between us. And it means when you need help or
-  advice - before or after purchase - who better to ask than the people who
-  actually made your wheels. If you've never heard of us before, scroll down to
-  find riders like you who're already spinning up their Fat Boys and enjoying
-  the ride like never before. One day we hope to help transform your ride too -
-  thanks for riding by!
+  speed, gut wrenching all-weather adhesion and truly sublime comfort over every
+  rut & bump on road or trail. But there's more to these Fat Boys and the people
+  who make 'em. You see, every wheel we produce is precision hand crafted in the
+  UK specifically for just one rider - and that rider is YOU. It means wheels
+  uniquely engineered with your requirements in mind and made to deliver the
+  ride of your life. Then there's our pricing - Direct from Maker to Rider,
+  Which means never paying extra for other dudes to sit in between and add their
+  cut. And it also means when you need help or advice - before and after
+  purchase - who better to ask than the people who actually made your wheels. If
+  you've never heard of us before, it's nice to meet you today. Scroll down and
+  you'll find riders just like you, already spinning up their Fat Boys and
+  enjoying their rides like never before. We hope we can transform your ride too
+  - so thanks for riding by!
 purpose:
   - type: external
     url: 'http://ridefullgas.com/wheels/'
