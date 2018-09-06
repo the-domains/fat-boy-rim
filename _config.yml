@@ -118,6 +118,6 @@ purpose:
   - type: external
     url: 'http://ridefullgas.com/wheels/'
     label: Buy Fat Boys
-  - type: contact
-    url: 'mailto:drew@spinonthese.com'
-    label: Ask the Spin Meister
+  - type: external
+    url: 'https://ridefullgas.com/customer-reviews/'
+    label: Reviews
