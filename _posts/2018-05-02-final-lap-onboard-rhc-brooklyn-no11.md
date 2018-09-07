@@ -52,10 +52,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/asNZJf3WL84'
 title: >-
-  Onboard the #FatBoys! Last lap RHC Brooklyn 2019 with Margaux Vigie pushing
-  the pedals 
-datePublished: '2018-09-07T13:38:28.817Z'
-dateModified: '2018-09-07T13:38:27.975Z'
+  Onboard: racing the #FatBoys! Last lap RHC Brooklyn 2019 with Margaux Vigie
+  pushing the pedals
+datePublished: '2018-09-07T13:39:24.704Z'
+dateModified: '2018-09-07T13:39:23.385Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-02-final-lap-onboard-rhc-brooklyn-no11.md
@@ -65,6 +65,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Onboard the \#FatBoys! Last lap RHC Brooklyn 2019 with Margaux Vigie pushing the pedals 
+# Onboard: racing the \#FatBoys! Last lap RHC Brooklyn 2019 with Margaux Vigie pushing the pedals
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FasNZJf3WL84&amp;src_secure=1&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DasNZJf3WL84&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FasNZJf3WL84%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
