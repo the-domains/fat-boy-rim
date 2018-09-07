@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bh98GXkBiP3/?tagged=spinonthese'
 title: "The homie @jeremysantucci aka Tucci rocking The Barcode Tee. Not too many of these left. Can't wait to see Tucci d3stroy it at RHC \uD83D\uDCF7 by @michael_paniccia"
-datePublished: '2018-06-08T14:18:00.451Z'
-dateModified: '2018-06-08T14:17:57.182Z'
+datePublished: '2018-09-07T13:24:25.908Z'
+dateModified: '2018-09-07T13:24:23.318Z'
 description: ''
 via: {}
 inFeed: true
