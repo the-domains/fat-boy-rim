@@ -57,13 +57,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/YAR_uWX9Elo'
 title: NL Crit Series - Draai van de Kaai Crit 2018
-datePublished: '2018-09-07T15:42:34.613Z'
-dateModified: '2018-09-07T15:42:16.910Z'
-datePublishedOriginal: '2018-09-07T15:42:34.613Z'
+datePublished: '2018-09-07T15:42:54.556Z'
+dateModified: '2018-09-07T15:42:54.032Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-09-07-nl-crit-series-draai-van-de-kaai-crit-2018.md
+starred: false
+datePublishedOriginal: '2018-09-07T15:42:34.613Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
