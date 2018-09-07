@@ -26,9 +26,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BiwdBhPBFzA/?taken-by=giorgialolafraie'
-title: 'Thanks for riding Champ! #spinonthese #winonthese'
-datePublished: '2018-06-08T14:18:00.551Z'
-dateModified: '2018-06-08T14:17:57.182Z'
+title: 'Thanks for riding World Champ! #spinonthese #winonthese'
+datePublished: '2018-09-07T13:32:55.371Z'
+dateModified: '2018-09-07T13:32:54.334Z'
 description: ''
 via: {}
 inFeed: true
@@ -40,5 +40,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# Thanks for riding Champ! \#spinonthese \#winonthese
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d1770a05233b5411b504ec44c65ae73/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2F0a15a1923721e634580bec6cb1f79d1e%2F5B9C8678%2Ft51.2885-15%2Fe35%2F31686982_512756065787704_2684986946689695744_n.jpg)
+# Thanks for riding World Champ! \#spinonthese \#winonthese
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcbcdb380395c1463d752d1e1bd215eeb82f517c.jpg)
