@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BjlwkK-hcG9/?saved-by=spinonthese'
 title: >-
   Building a race rig #fromwhereiride #getoutandride #aeroiseverything #roadporn
   #cyclingporn #spinonthese #fatboys #iamspecialized
-datePublished: '2018-06-13T19:45:44.716Z'
-dateModified: '2018-06-13T19:45:44.179Z'
+datePublished: '2018-09-08T16:57:37.184Z'
+dateModified: '2018-09-08T16:57:36.521Z'
 description: ''
 via: {}
 inFeed: true
