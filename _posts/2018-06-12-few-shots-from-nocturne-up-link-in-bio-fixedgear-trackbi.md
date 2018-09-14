@@ -27,10 +27,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bj16kh_Bu4n/?saved-by=spinonthese'
 title: >-
-  Few shots from #nocturne up, link in bio #fixedgear #trackbike #brakeless
-  #bikelife #wheelie #cycling #bike #bici #mrporternocturne
-datePublished: '2018-09-07T13:09:46.606Z'
-dateModified: '2018-09-07T13:09:45.788Z'
+  William Lewis’ London Nocturne crash test went well. Both wheels & all his
+  bones still intact … 
+datePublished: '2018-09-14T08:18:28.629Z'
+dateModified: '2018-09-14T08:18:26.805Z'
 description: ''
 via: {}
 inFeed: true
@@ -41,4 +41,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/62e5c498430200522c0178bd77de1223/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2Faf8295a16ea05c60e66019a7b49453f3%2F5BA4EDC5%2Ft51.2885-15%2Fe35%2F34568263_452648255148279_1631192136223293440_n.jpg)
+# William Lewis' London Nocturne crash test went well. Both wheels & all his bones still intact ... ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/62e5c498430200522c0178bd77de1223/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2Faf8295a16ea05c60e66019a7b49453f3%2F5BA4EDC5%2Ft51.2885-15%2Fe35%2F34568263_452648255148279_1631192136223293440_n.jpg)
+
+## Thanks for riding Will!
