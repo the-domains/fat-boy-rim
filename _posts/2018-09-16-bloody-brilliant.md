@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: >-
-  Hello Drew  Pinging over a hello as long time no speak. Just wanted to catch
+  Hello Drew Pinging over a hello as long time no speak. Just wanted to catch
   up. Hope business is good and Spin wheels are flying out.
-dateModified: '2018-09-16T18:53:24.909Z'
-datePublished: '2018-09-16T18:53:25.574Z'
+dateModified: '2018-09-16T18:53:57.100Z'
+datePublished: '2018-09-16T18:53:57.573Z'
 title: Bloody brilliant
 author: []
 publisher:
   name: Pete Tiley
 via: {}
+sourcePath: _posts/2018-09-16-bloody-brilliant.md
 starred: false
 datePublishedOriginal: '2018-09-16T18:53:25.574Z'
-sourcePath: _posts/2018-09-16-bloody-brilliant.md
 _type: Blurb
 
 ---
