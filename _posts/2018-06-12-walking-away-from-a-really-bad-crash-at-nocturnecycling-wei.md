@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bj2wJCHh-qo/?saved-by=spinonthese'
 title: No Fat Boys were harmed in the making of this picture…
-datePublished: '2018-09-17T14:10:49.656Z'
-dateModified: '2018-09-17T14:10:48.983Z'
+datePublished: '2018-09-17T14:12:12.857Z'
+dateModified: '2018-09-17T14:12:12.238Z'
 description: ''
 via: {}
 inFeed: true
@@ -43,4 +43,4 @@ _context: 'http://schema.org'
 # No Fat Boys were harmed in the making of this picture...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97bd5741c0fe48a55cab9f7f6341690c8f28ad2f.jpg)
 
-### Unfortunately plenty of bones (not Wil's) & bikes (Wil's bike) were...
+### Unfortunately plenty of bones (not Wil's ;-) & bikes (Wil's bike! ;-( were...
