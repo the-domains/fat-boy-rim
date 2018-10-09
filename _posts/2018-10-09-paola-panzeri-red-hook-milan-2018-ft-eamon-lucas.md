@@ -72,13 +72,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MCqWO3aNjS4'
 title: Paola Panzeri - Red Hook Milan 2018 ft. Eamon Lucas
-datePublished: '2018-10-09T19:03:29.231Z'
-dateModified: '2018-10-09T19:03:02.282Z'
-datePublishedOriginal: '2018-10-09T19:03:29.231Z'
+datePublished: '2018-10-09T19:04:11.077Z'
+dateModified: '2018-10-09T19:04:10.417Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-10-09-paola-panzeri-red-hook-milan-2018-ft-eamon-lucas.md
+starred: false
+datePublishedOriginal: '2018-10-09T19:03:29.231Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
