@@ -70,13 +70,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/-qLVAIqex9M'
 title: Red Hook Milan 2018 Race Day Heat 1 Race & Final
-datePublished: '2018-10-09T11:27:42.818Z'
-dateModified: '2018-10-09T11:27:17.946Z'
-datePublishedOriginal: '2018-10-09T11:27:42.818Z'
+datePublished: '2018-10-09T11:35:19.534Z'
+dateModified: '2018-10-09T11:35:18.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-10-09-red-hook-milan-2018-race-day-heat-1-race-and-final.md
+starred: false
+datePublishedOriginal: '2018-10-09T11:27:42.818Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
