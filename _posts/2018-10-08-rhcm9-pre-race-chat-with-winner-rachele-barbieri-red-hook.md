@@ -74,13 +74,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/fDou_VubqAY'
 title: '#RHCM9 Pre-Race chat with winner Rachele Barbieri - Red Hook Crit Milano 2018'
-datePublished: '2018-10-08T08:42:05.621Z'
-dateModified: '2018-10-08T08:41:46.522Z'
-datePublishedOriginal: '2018-10-08T08:42:05.621Z'
+datePublished: '2018-10-09T11:36:25.787Z'
+dateModified: '2018-10-09T11:36:25.188Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-10-08-rhcm9-pre-race-chat-with-winner-rachele-barbieri-red-hook.md
+starred: false
+datePublishedOriginal: '2018-10-08T08:42:05.621Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
