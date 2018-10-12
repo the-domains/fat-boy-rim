@@ -70,8 +70,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/4lz9tF329WI'
 title: 'Red Hook Crit Milan 2018 #rhcm9'
-datePublished: '2018-10-09T06:33:13.226Z'
-dateModified: '2018-10-09T06:33:12.252Z'
+datePublished: '2018-10-12T12:09:47.473Z'
+dateModified: '2018-10-12T12:09:46.637Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-10-08-red-hook-crit-milan-2018-rhcm9.md
