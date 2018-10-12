@@ -74,8 +74,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/fDou_VubqAY'
 title: 'Red Hook Crit Milan 2018 - Interview with race winner Rachele Barbieri #rhcm9'
-datePublished: '2018-10-11T13:26:38.058Z'
-dateModified: '2018-10-11T13:26:37.118Z'
+datePublished: '2018-10-12T12:07:49.218Z'
+dateModified: '2018-10-12T12:07:48.635Z'
 via: {}
 inFeed: true
 sourcePath: >-
