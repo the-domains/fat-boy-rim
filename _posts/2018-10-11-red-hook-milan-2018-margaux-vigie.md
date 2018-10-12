@@ -72,8 +72,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/itT1WhMkbbo'
 title: Red Hook Milan 2018 - Margaux Vigie
-datePublished: '2018-10-11T13:22:37.329Z'
-dateModified: '2018-10-11T13:22:35.274Z'
+datePublished: '2018-10-12T12:14:43.170Z'
+dateModified: '2018-10-12T12:14:42.498Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-10-11-red-hook-milan-2018-margaux-vigie.md
