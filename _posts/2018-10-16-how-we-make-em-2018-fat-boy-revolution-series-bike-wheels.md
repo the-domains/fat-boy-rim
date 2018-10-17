@@ -71,13 +71,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/F0R0pThRtmw'
 title: How We Make 'Em 2018 - Fat Boy Revolution Series Bike Wheels
-datePublished: '2018-10-16T19:25:05.916Z'
-dateModified: '2018-10-16T19:24:48.785Z'
-datePublishedOriginal: '2018-10-16T19:25:05.916Z'
+datePublished: '2018-10-17T07:22:33.416Z'
+dateModified: '2018-10-17T07:22:32.977Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-10-16-how-we-make-em-2018-fat-boy-revolution-series-bike-wheels.md
+starred: false
+datePublishedOriginal: '2018-10-16T19:25:05.916Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
