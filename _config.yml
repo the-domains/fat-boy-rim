@@ -23,7 +23,7 @@ logo: >-
 name: revolutionary wheels
 navigation:
   - name: Buy your Fat Boys direct from our online Speed Shop
-    url: 'http://ridefullgas.com/'
+    url: 'https://ridefullgas.com/'
     type: external
   - name: Meet the Fat Boys
     id: 472d1184-2d33-4a73-b4ec-e77a58d2c5be
